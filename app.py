@@ -328,15 +328,6 @@ def server(input, output, session):
             label="WHO Target (95%)"
         )
 
-        # Below-target shaded region
-        below_95 = ax.axhspan(
-            0,
-            95,
-            color="#C9A227",
-            alpha=0.18,
-            label="Below 95%"
-        )
-
         # Grid styling
         ax.grid(True, color="#D1D5DB", alpha=0.8)
 
@@ -366,8 +357,8 @@ def server(input, output, session):
 
         # Threshold legend
         threshold_legend = ax.legend(
-            handles=[target_line, below_95],
-            labels=["WHO Target (95%)", "Below 95%"],
+            handles=[target_line],
+            labels=["WHO Target (95%)"],
             loc="upper right",
             facecolor="white",
             edgecolor="#D1D5DB",
@@ -518,7 +509,7 @@ def server(input, output, session):
                 "xref": "paper",
                 "y": row["country"],
                 "yref": "y",
-                "text": "➤",
+                "text": "▶",
                 "showarrow": False,
                 "font": {
                     "color": selected_arrow_color(row["coverage"]),
