@@ -6,13 +6,13 @@ import plotly.graph_objects as go
 import numpy as np
 from shinywidgets import output_widget, render_widget
 
-# Load cleaned OECD immunisation data
+# This is the cleaned data file I made earlier, so the app starts from this.
 df = pd.read_csv("data/clean_oecd_immunisation.csv")
 
 app_ui = ui.page_fluid(
     ui.head_content(ui.include_css("www/styles.css")),
 
-    # Sticky dashboard header
+    # Header that stays at the top while I scroll the dashboard.
     ui.div(
         ui.div(
             ui.h2("OECD Immunisation Dashboard"),
@@ -25,7 +25,7 @@ app_ui = ui.page_fluid(
     # Sidebar layout
     ui.layout_sidebar(
 
-        # Sidebar controls
+        # These are the filters the user can change.
         ui.sidebar(
             ui.div(
                 ui.input_select(
@@ -38,7 +38,7 @@ app_ui = ui.page_fluid(
                     ]
                 ),
 
-                # Slider for year range selection
+                # This slider lets the user choose the years they want to see.
                 ui.div(
                     ui.input_slider(
                         "year_range",
@@ -66,9 +66,9 @@ app_ui = ui.page_fluid(
             class_="sticky-sidebar-shell"
         ),
 
-        # KPI cards
+        # The four number cards at the top of the dashboard.
         ui.div(
-            # Overall coverage card
+            # Overall coverage card.
             ui.div(
                 ui.h4(
                     "Average Latest Coverage across all OECD countries",
@@ -83,7 +83,7 @@ app_ui = ui.page_fluid(
                 class_="kpi-card"
             ),
 
-            # User-selected content card, tied visually to the country selector
+            # This card changes when countries are selected in the sidebar.
             ui.div(
                 ui.h4(
                     "Average Latest Coverage for Selected Countries",
@@ -96,7 +96,7 @@ app_ui = ui.page_fluid(
                 class_="kpi-card selected-countries-kpi"
             ),
 
-            # Lowest Coverage Card
+            # Lowest coverage card.
             ui.div(
                 ui.h4(
                     "Country with Lowest Most Recent Coverage",
@@ -110,7 +110,7 @@ app_ui = ui.page_fluid(
                 class_="kpi-card"
             ),
 
-            # Highest Coverage Card
+            # Highest coverage card.
             ui.div(
                 ui.h4(
                     "Country with Highest Most Recent Coverage",
@@ -126,13 +126,13 @@ app_ui = ui.page_fluid(
             class_="kpi-layout"
         ),
 
-        # Main line plot
+        # Main line plot showing the trend over time.
         ui.div(
             ui.output_plot("line_plot"),
             class_="plot-card"
         ),
 
-        # Container below for 2 further plots - horizontal bar chart and heat map
+        # Two extra charts underneath: one bar chart and one heatmap.
         ui.div(
             ui.div(
                 output_widget("bar_chart"),
@@ -146,7 +146,7 @@ app_ui = ui.page_fluid(
         ),
     ),
 
-    # Overall page styling
+    # Overall page styling for the dark dashboard background.
     style="""
         background-color: #1f2937;
         color: #f9fafb;
@@ -158,15 +158,19 @@ app_ui = ui.page_fluid(
 
 def server(input, output, session):
     def filter_data(selected_countries=None):
+        # This is my main filter helper, so I do not repeat the same filtering
+        # code in every chart and KPI.
         selected_vaccine = input.vaccine()
         start_year, end_year = input.year_range()
 
+        # Keep only the vaccine, year range and non-empty coverage values.
         filtered_df = df[
             (df["vaccine"] == selected_vaccine) &
             (df["year"].between(start_year, end_year)) &
             (df["coverage"].notna())
         ]
 
+        # If countries were selected, narrow the data down to just those.
         if selected_countries is not None:
             filtered_df = filtered_df[
                 filtered_df["country"].isin(selected_countries)
@@ -175,6 +179,7 @@ def server(input, output, session):
         return filtered_df
 
     def kpi_value(coverage):
+        # Adds the % sign and changes the colour depending on the coverage.
         if coverage == "N/A":
             return ui.span(coverage)
 
@@ -189,11 +194,13 @@ def server(input, output, session):
 
     @reactive.calc
     def latest_coverage():
+        
         filtered_df = filter_data()
 
         if filtered_df.empty:
             return "N/A"
 
+        # Keep only latest year available after filtering.
         most_recent_year = filtered_df["year"].max()
         latest_data = filtered_df[filtered_df["year"] == most_recent_year]
 
@@ -206,6 +213,7 @@ def server(input, output, session):
     
     @reactive.calc
     def selected_latest_coverage():
+        # Same idea as latest_coverage, but only for the selected countries.
         selected_countries = input.country()
 
         filtered_df = filter_data(selected_countries)
@@ -223,7 +231,7 @@ def server(input, output, session):
 
         return f"{average_coverage:.1f}"
     
-    # Additional KPIs for highest and lowest coverage
+    # Extra KPIs for highest and lowest coverage.
     @reactive.calc
     def lowest_coverage():
         filtered_df = filter_data()
@@ -237,6 +245,7 @@ def server(input, output, session):
         if latest_data.empty:
             return "N/A"
 
+        # idxmin finds the row number for the smallest coverage value.
         lowest_row = latest_data.loc[latest_data["coverage"].idxmin()]
 
         return f"{lowest_row['country']} ({lowest_row['coverage']:.1f}%)"
@@ -254,6 +263,7 @@ def server(input, output, session):
         if latest_data.empty:
             return "N/A"
 
+        # idxmax does the same thing, but for the biggest coverage value.
         highest_row = latest_data.loc[latest_data["coverage"].idxmax()]
 
         return f"{highest_row['country']} ({highest_row['coverage']:.1f}%)"
@@ -276,6 +286,7 @@ def server(input, output, session):
 
     @render.plot
     def line_plot():
+        # Matplotlib/seaborn chart for showing each selected country over time.
         selected_countries = input.country()
 
         filtered_df = filter_data(selected_countries)
@@ -283,14 +294,14 @@ def server(input, output, session):
         if filtered_df.empty:
             return None
 
-        # Create figure and axes
+        # Create the blank chart area.
         fig, ax = plt.subplots(figsize=(10, 6))
 
-        # Light plot background for readability
+        # Light plot background so the chart is easier to read.
         fig.patch.set_facecolor("white")
         ax.set_facecolor("white")
 
-        # Line plot
+        # Draw one line per country.
         sns.lineplot(
             data=filtered_df,
             x="year",
@@ -313,13 +324,13 @@ def server(input, output, session):
         # Axis styling
         ax.tick_params(colors="#1f2937")
 
-        # Dynamic y-axis
+        # Dynamic y-axis, with a bit of space below the lowest value.
         ax.set_ylim(
             max(0, filtered_df["coverage"].min() - 5),
             100
         )
 
-        # WHO target line
+        # WHO target line, so 95% is easy to spot.
         target_line = ax.axhline(
             95,
             color="#F2C14E",
@@ -331,7 +342,7 @@ def server(input, output, session):
         # Grid styling
         ax.grid(True, color="#D1D5DB", alpha=0.8)
 
-        # Separate legends
+        # Separate legends so the country list and WHO target do not get mixed.
         country_handles, country_labels = ax.get_legend_handles_labels()
 
         country_items = [
@@ -379,12 +390,14 @@ def server(input, output, session):
 
     @render_widget
     def bar_chart():
+        # Plotly bar chart showing the latest coverage for every country.
         filtered_df = filter_data()
 
         if filtered_df.empty:
             return None
 
         latest_data = (
+            # Sort by year, then keep the last row for each country.
             filtered_df.sort_values("year")
             .groupby("country", as_index=False)
             .tail(1)
@@ -403,6 +416,7 @@ def server(input, output, session):
             selected_countries = set(selected_countries)
 
         def bar_color(row):
+            # Selected countries get lighter colours so they stand out.
             is_selected = row["country"] in selected_countries
             coverage = row["coverage"]
 
@@ -475,12 +489,14 @@ def server(input, output, session):
 
     @render_widget
     def heatmap():
+        # Heatmap showing coverage across years, with countries ordered by latest coverage.
         filtered_df = filter_data()
 
         if filtered_df.empty:
             return None
 
         latest_data = (
+            # This gives the most recent row per country, used for sorting.
             filtered_df.sort_values("year")
             .groupby("country", as_index=False)
             .tail(1)
@@ -497,6 +513,7 @@ def server(input, output, session):
             selected_countries = set(selected_countries)
 
         def selected_arrow_color(coverage):
+            # Match the arrow colour to the same coverage bands used elsewhere.
             if coverage < 90:
                 return "#F3B8A9"
             if coverage < 95:
@@ -504,12 +521,13 @@ def server(input, output, session):
             return "#8FD3BE"
 
         selected_country_arrows = [
+            # Add an arrow beside countries selected in the sidebar.
             {
                 "x": -0.5,
                 "xref": "paper",
                 "y": row["country"],
                 "yref": "y",
-                "text": "▶",
+                "text": "➤",
                 "showarrow": False,
                 "font": {
                     "color": selected_arrow_color(row["coverage"]),
@@ -523,6 +541,8 @@ def server(input, output, session):
         ]
 
         pivot_df = (
+            # Pivot turns the data into a table shape that the heatmap needs:
+            # countries down the side, years across the top.
             filtered_df.pivot_table(
                 index="country",
                 columns="year",
