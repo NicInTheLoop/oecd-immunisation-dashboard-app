@@ -1,0 +1,1558 @@
+year,country,vaccine,coverage,oecd_region
+2010,Australia,Hepatitis B,91.6,Asia-Pacific
+2011,Australia,Hepatitis B,91.6,Asia-Pacific
+2012,Australia,Hepatitis B,91.8,Asia-Pacific
+2013,Australia,Hepatitis B,91.0,Asia-Pacific
+2014,Australia,Hepatitis B,91.2,Asia-Pacific
+2015,Australia,Hepatitis B,92.8,Asia-Pacific
+2016,Australia,Hepatitis B,94.2,Asia-Pacific
+2017,Australia,Hepatitis B,94.7,Asia-Pacific
+2018,Australia,Hepatitis B,94.5,Asia-Pacific
+2019,Australia,Hepatitis B,94.9,Asia-Pacific
+2020,Australia,Hepatitis B,95.3,Asia-Pacific
+2021,Australia,Hepatitis B,95.0,Asia-Pacific
+2010,Austria,Hepatitis B,86.0,Europe
+2011,Austria,Hepatitis B,89.0,Europe
+2012,Austria,Hepatitis B,92.0,Europe
+2013,Austria,Hepatitis B,95.0,Europe
+2014,Austria,Hepatitis B,98.0,Europe
+2015,Austria,Hepatitis B,93.0,Europe
+2016,Austria,Hepatitis B,87.0,Europe
+2017,Austria,Hepatitis B,90.0,Europe
+2018,Austria,Hepatitis B,85.0,Europe
+2019,Austria,Hepatitis B,85.0,Europe
+2020,Austria,Hepatitis B,85.0,Europe
+2010,Belgium,Hepatitis B,97.0,Europe
+2011,Belgium,Hepatitis B,97.0,Europe
+2012,Belgium,Hepatitis B,98.0,Europe
+2013,Belgium,Hepatitis B,98.0,Europe
+2014,Belgium,Hepatitis B,98.0,Europe
+2015,Belgium,Hepatitis B,98.0,Europe
+2016,Belgium,Hepatitis B,97.0,Europe
+2017,Belgium,Hepatitis B,97.0,Europe
+2018,Belgium,Hepatitis B,97.0,Europe
+2019,Belgium,Hepatitis B,97.0,Europe
+2020,Belgium,Hepatitis B,97.0,Europe
+2010,Canada,Hepatitis B,56.0,North America
+2011,Canada,Hepatitis B,70.0,North America
+2012,Canada,Hepatitis B,70.0,North America
+2013,Canada,Hepatitis B,55.0,North America
+2014,Canada,Hepatitis B,55.0,North America
+2015,Canada,Hepatitis B,69.0,North America
+2016,Canada,Hepatitis B,70.0,North America
+2017,Canada,Hepatitis B,71.0,North America
+2018,Canada,Hepatitis B,71.0,North America
+2019,Canada,Hepatitis B,84.0,North America
+2020,Canada,Hepatitis B,84.0,North America
+2010,Czech Republic,Hepatitis B,99.3,Europe
+2011,Czech Republic,Hepatitis B,99.1,Europe
+2012,Czech Republic,Hepatitis B,99.3,Europe
+2013,Czech Republic,Hepatitis B,99.2,Europe
+2014,Czech Republic,Hepatitis B,99.2,Europe
+2015,Czech Republic,Hepatitis B,97.2,Europe
+2016,Czech Republic,Hepatitis B,95.8,Europe
+2017,Czech Republic,Hepatitis B,94.4,Europe
+2018,Czech Republic,Hepatitis B,96.0,Europe
+2019,Czech Republic,Hepatitis B,96.7,Europe
+2020,Czech Republic,Hepatitis B,97.0,Europe
+2021,Czech Republic,Hepatitis B,93.7,Europe
+2010,France,Hepatitis B,64.0,Europe
+2011,France,Hepatitis B,74.0,Europe
+2012,France,Hepatitis B,78.0,Europe
+2013,France,Hepatitis B,82.0,Europe
+2014,France,Hepatitis B,83.0,Europe
+2015,France,Hepatitis B,88.0,Europe
+2016,France,Hepatitis B,88.1,Europe
+2017,France,Hepatitis B,90.0,Europe
+2018,France,Hepatitis B,91.3,Europe
+2019,France,Hepatitis B,91.0,Europe
+2010,Germany,Hepatitis B,90.3,Europe
+2011,Germany,Hepatitis B,86.8,Europe
+2012,Germany,Hepatitis B,86.2,Europe
+2013,Germany,Hepatitis B,86.9,Europe
+2014,Germany,Hepatitis B,88.0,Europe
+2015,Germany,Hepatitis B,88.3,Europe
+2016,Germany,Hepatitis B,87.6,Europe
+2017,Germany,Hepatitis B,87.3,Europe
+2018,Germany,Hepatitis B,86.9,Europe
+2019,Germany,Hepatitis B,87.2,Europe
+2020,Germany,Hepatitis B,87.4,Europe
+2010,Greece,Hepatitis B,95.0,Europe
+2011,Greece,Hepatitis B,95.0,Europe
+2012,Greece,Hepatitis B,98.0,Europe
+2013,Greece,Hepatitis B,98.0,Europe
+2014,Greece,Hepatitis B,96.0,Europe
+2015,Greece,Hepatitis B,96.0,Europe
+2016,Greece,Hepatitis B,96.0,Europe
+2017,Greece,Hepatitis B,96.0,Europe
+2018,Greece,Hepatitis B,96.0,Europe
+2019,Greece,Hepatitis B,96.0,Europe
+2020,Greece,Hepatitis B,96.0,Europe
+2010,Ireland,Hepatitis B,94.0,Europe
+2011,Ireland,Hepatitis B,95.0,Europe
+2012,Ireland,Hepatitis B,95.1,Europe
+2013,Ireland,Hepatitis B,95.0,Europe
+2014,Ireland,Hepatitis B,95.5,Europe
+2015,Ireland,Hepatitis B,95.2,Europe
+2016,Ireland,Hepatitis B,95.0,Europe
+2017,Ireland,Hepatitis B,94.7,Europe
+2018,Ireland,Hepatitis B,94.4,Europe
+2019,Ireland,Hepatitis B,93.4,Europe
+2020,Ireland,Hepatitis B,94.1,Europe
+2021,Ireland,Hepatitis B,93.5,Europe
+2010,Italy,Hepatitis B,96.0,Europe
+2011,Italy,Hepatitis B,96.0,Europe
+2012,Italy,Hepatitis B,96.5,Europe
+2013,Italy,Hepatitis B,96.0,Europe
+2014,Italy,Hepatitis B,95.0,Europe
+2015,Italy,Hepatitis B,93.3,Europe
+2016,Italy,Hepatitis B,93.0,Europe
+2017,Italy,Hepatitis B,94.2,Europe
+2018,Italy,Hepatitis B,94.9,Europe
+2019,Italy,Hepatitis B,94.9,Europe
+2020,Italy,Hepatitis B,93.7,Europe
+2019,Japan,Hepatitis B,99.0,Asia-Pacific
+2020,Japan,Hepatitis B,92.3,Asia-Pacific
+2010,Korea,Hepatitis B,88.9,Asia-Pacific
+2011,Korea,Hepatitis B,91.5,Asia-Pacific
+2012,Korea,Hepatitis B,95.9,Asia-Pacific
+2013,Korea,Hepatitis B,97.3,Asia-Pacific
+2014,Korea,Hepatitis B,98.0,Asia-Pacific
+2015,Korea,Hepatitis B,98.3,Asia-Pacific
+2016,Korea,Hepatitis B,98.4,Asia-Pacific
+2017,Korea,Hepatitis B,97.7,Asia-Pacific
+2018,Korea,Hepatitis B,97.7,Asia-Pacific
+2019,Korea,Hepatitis B,97.4,Asia-Pacific
+2010,Luxembourg,Hepatitis B,94.0,Europe
+2011,Luxembourg,Hepatitis B,95.0,Europe
+2012,Luxembourg,Hepatitis B,94.0,Europe
+2013,Luxembourg,Hepatitis B,94.0,Europe
+2014,Luxembourg,Hepatitis B,94.0,Europe
+2015,Luxembourg,Hepatitis B,94.0,Europe
+2016,Luxembourg,Hepatitis B,94.0,Europe
+2017,Luxembourg,Hepatitis B,94.0,Europe
+2018,Luxembourg,Hepatitis B,96.0,Europe
+2019,Luxembourg,Hepatitis B,96.0,Europe
+2020,Luxembourg,Hepatitis B,96.0,Europe
+2010,Mexico,Hepatitis B,92.8,Latin America
+2011,Mexico,Hepatitis B,97.7,Latin America
+2012,Mexico,Hepatitis B,99.0,Latin America
+2013,Mexico,Hepatitis B,79.1,Latin America
+2014,Mexico,Hepatitis B,84.3,Latin America
+2015,Mexico,Hepatitis B,82.5,Latin America
+2016,Mexico,Hepatitis B,93.1,Latin America
+2017,Mexico,Hepatitis B,58.2,Latin America
+2018,Mexico,Hepatitis B,55.0,Latin America
+2019,Mexico,Hepatitis B,56.0,Latin America
+2020,Mexico,Hepatitis B,91.8,Latin America
+2021,Mexico,Hepatitis B,79.8,Latin America
+2010,Netherlands,Hepatitis B,19.4,Europe
+2011,Netherlands,Hepatitis B,19.5,Europe
+2012,Netherlands,Hepatitis B,20.0,Europe
+2013,Netherlands,Hepatitis B,51.4,Europe
+2014,Netherlands,Hepatitis B,94.5,Europe
+2015,Netherlands,Hepatitis B,93.8,Europe
+2016,Netherlands,Hepatitis B,93.1,Europe
+2017,Netherlands,Hepatitis B,92.2,Europe
+2018,Netherlands,Hepatitis B,92.0,Europe
+2019,Netherlands,Hepatitis B,92.3,Europe
+2020,Netherlands,Hepatitis B,93.0,Europe
+2021,Netherlands,Hepatitis B,92.7,Europe
+2010,New Zealand,Hepatitis B,93.5,Asia-Pacific
+2011,New Zealand,Hepatitis B,94.6,Asia-Pacific
+2012,New Zealand,Hepatitis B,93.5,Asia-Pacific
+2013,New Zealand,Hepatitis B,93.0,Asia-Pacific
+2014,New Zealand,Hepatitis B,92.7,Asia-Pacific
+2015,New Zealand,Hepatitis B,92.3,Asia-Pacific
+2016,New Zealand,Hepatitis B,92.5,Asia-Pacific
+2017,New Zealand,Hepatitis B,93.6,Asia-Pacific
+2018,New Zealand,Hepatitis B,92.6,Asia-Pacific
+2019,New Zealand,Hepatitis B,91.7,Asia-Pacific
+2020,New Zealand,Hepatitis B,92.0,Asia-Pacific
+2021,New Zealand,Hepatitis B,89.8,Asia-Pacific
+2019,Norway,Hepatitis B,96.0,Europe
+2020,Norway,Hepatitis B,96.6,Europe
+2021,Norway,Hepatitis B,96.3,Europe
+2010,Poland,Hepatitis B,97.8,Europe
+2011,Poland,Hepatitis B,98.0,Europe
+2012,Poland,Hepatitis B,97.3,Europe
+2013,Poland,Hepatitis B,96.4,Europe
+2014,Poland,Hepatitis B,96.0,Europe
+2015,Poland,Hepatitis B,96.0,Europe
+2016,Poland,Hepatitis B,95.0,Europe
+2017,Poland,Hepatitis B,92.9,Europe
+2018,Poland,Hepatitis B,90.9,Europe
+2019,Poland,Hepatitis B,91.0,Europe
+2020,Poland,Hepatitis B,90.0,Europe
+2010,Portugal,Hepatitis B,97.0,Europe
+2011,Portugal,Hepatitis B,97.0,Europe
+2012,Portugal,Hepatitis B,98.0,Europe
+2013,Portugal,Hepatitis B,98.0,Europe
+2014,Portugal,Hepatitis B,98.0,Europe
+2015,Portugal,Hepatitis B,98.0,Europe
+2016,Portugal,Hepatitis B,98.0,Europe
+2017,Portugal,Hepatitis B,98.0,Europe
+2018,Portugal,Hepatitis B,98.0,Europe
+2019,Portugal,Hepatitis B,98.0,Europe
+2020,Portugal,Hepatitis B,99.0,Europe
+2010,Slovak Republic,Hepatitis B,99.1,Europe
+2011,Slovak Republic,Hepatitis B,99.0,Europe
+2012,Slovak Republic,Hepatitis B,98.7,Europe
+2013,Slovak Republic,Hepatitis B,97.9,Europe
+2014,Slovak Republic,Hepatitis B,96.8,Europe
+2015,Slovak Republic,Hepatitis B,96.0,Europe
+2016,Slovak Republic,Hepatitis B,96.4,Europe
+2017,Slovak Republic,Hepatitis B,96.4,Europe
+2018,Slovak Republic,Hepatitis B,96.5,Europe
+2019,Slovak Republic,Hepatitis B,96.7,Europe
+2020,Slovak Republic,Hepatitis B,97.0,Europe
+2021,Slovak Republic,Hepatitis B,97.0,Europe
+2010,Spain,Hepatitis B,96.5,Europe
+2011,Spain,Hepatitis B,96.6,Europe
+2012,Spain,Hepatitis B,96.2,Europe
+2013,Spain,Hepatitis B,95.2,Europe
+2014,Spain,Hepatitis B,96.2,Europe
+2015,Spain,Hepatitis B,96.6,Europe
+2016,Spain,Hepatitis B,97.3,Europe
+2017,Spain,Hepatitis B,94.5,Europe
+2018,Spain,Hepatitis B,93.5,Europe
+2019,Spain,Hepatitis B,95.5,Europe
+2020,Spain,Hepatitis B,94.7,Europe
+2021,Spain,Hepatitis B,90.7,Europe
+2011,Sweden,Hepatitis B,29.0,Europe
+2012,Sweden,Hepatitis B,30.0,Europe
+2013,Sweden,Hepatitis B,35.0,Europe
+2014,Sweden,Hepatitis B,42.0,Europe
+2015,Sweden,Hepatitis B,53.0,Europe
+2016,Sweden,Hepatitis B,67.0,Europe
+2017,Sweden,Hepatitis B,76.0,Europe
+2018,Sweden,Hepatitis B,92.0,Europe
+2019,Sweden,Hepatitis B,97.0,Europe
+2020,Sweden,Hepatitis B,97.0,Europe
+2017,Switzerland,Hepatitis B,65.2,Europe
+2018,Switzerland,Hepatitis B,71.9,Europe
+2019,Switzerland,Hepatitis B,68.5,Europe
+2020,Switzerland,Hepatitis B,72.1,Europe
+2010,Türkiye,Hepatitis B,96.0,Europe/Asia
+2011,Türkiye,Hepatitis B,96.0,Europe/Asia
+2012,Türkiye,Hepatitis B,97.0,Europe/Asia
+2013,Türkiye,Hepatitis B,97.0,Europe/Asia
+2014,Türkiye,Hepatitis B,95.0,Europe/Asia
+2015,Türkiye,Hepatitis B,97.0,Europe/Asia
+2016,Türkiye,Hepatitis B,98.0,Europe/Asia
+2017,Türkiye,Hepatitis B,96.0,Europe/Asia
+2018,Türkiye,Hepatitis B,98.0,Europe/Asia
+2019,Türkiye,Hepatitis B,98.6,Europe/Asia
+2020,Türkiye,Hepatitis B,98.5,Europe/Asia
+2021,Türkiye,Hepatitis B,95.5,Europe/Asia
+2019,United Kingdom,Hepatitis B,93.0,Europe
+2020,United Kingdom,Hepatitis B,93.0,Europe
+2021,United Kingdom,Hepatitis B,92.6,Europe
+2010,United States,Hepatitis B,92.0,North America
+2011,United States,Hepatitis B,91.0,North America
+2012,United States,Hepatitis B,90.0,North America
+2013,United States,Hepatitis B,91.0,North America
+2014,United States,Hepatitis B,92.0,North America
+2015,United States,Hepatitis B,92.0,North America
+2016,United States,Hepatitis B,93.0,North America
+2017,United States,Hepatitis B,91.0,North America
+2018,United States,Hepatitis B,91.0,North America
+2019,United States,Hepatitis B,91.0,North America
+2020,United States,Hepatitis B,91.0,North America
+2010,Brazil,Hepatitis B,96.0,Latin America
+2011,Brazil,Hepatitis B,98.0,Latin America
+2012,Brazil,Hepatitis B,96.0,Latin America
+2013,Brazil,Hepatitis B,96.0,Latin America
+2014,Brazil,Hepatitis B,96.0,Latin America
+2015,Brazil,Hepatitis B,96.3,Latin America
+2016,Brazil,Hepatitis B,89.3,Latin America
+2017,Brazil,Hepatitis B,92.6,Latin America
+2018,Brazil,Hepatitis B,93.0,Latin America
+2019,Brazil,Hepatitis B,72.0,Latin America
+2020,Brazil,Hepatitis B,77.1,Latin America
+2010,Chile,Hepatitis B,92.4,Latin America
+2011,Chile,Hepatitis B,93.7,Latin America
+2012,Chile,Hepatitis B,89.9,Latin America
+2013,Chile,Hepatitis B,89.6,Latin America
+2014,Chile,Hepatitis B,94.7,Latin America
+2015,Chile,Hepatitis B,96.0,Latin America
+2016,Chile,Hepatitis B,94.8,Latin America
+2017,Chile,Hepatitis B,93.0,Latin America
+2018,Chile,Hepatitis B,95.0,Latin America
+2019,Chile,Hepatitis B,96.0,Latin America
+2020,Chile,Hepatitis B,92.7,Latin America
+2010,China (People's Republic of),Hepatitis B,99.0,Asia-Pacific
+2011,China (People's Republic of),Hepatitis B,99.6,Asia-Pacific
+2012,China (People's Republic of),Hepatitis B,99.0,Asia-Pacific
+2013,China (People's Republic of),Hepatitis B,99.6,Asia-Pacific
+2014,China (People's Republic of),Hepatitis B,99.0,Asia-Pacific
+2015,China (People's Republic of),Hepatitis B,99.6,Asia-Pacific
+2016,China (People's Republic of),Hepatitis B,99.5,Asia-Pacific
+2017,China (People's Republic of),Hepatitis B,99.5,Asia-Pacific
+2018,China (People's Republic of),Hepatitis B,99.5,Asia-Pacific
+2019,China (People's Republic of),Hepatitis B,99.4,Asia-Pacific
+2020,China (People's Republic of),Hepatitis B,99.4,Asia-Pacific
+2021,China (People's Republic of),Hepatitis B,99.4,Asia-Pacific
+2010,Estonia,Hepatitis B,94.0,Europe
+2011,Estonia,Hepatitis B,93.7,Europe
+2012,Estonia,Hepatitis B,94.0,Europe
+2013,Estonia,Hepatitis B,93.4,Europe
+2014,Estonia,Hepatitis B,92.9,Europe
+2015,Estonia,Hepatitis B,91.3,Europe
+2016,Estonia,Hepatitis B,92.6,Europe
+2017,Estonia,Hepatitis B,91.5,Europe
+2018,Estonia,Hepatitis B,93.2,Europe
+2019,Estonia,Hepatitis B,90.9,Europe
+2020,Estonia,Hepatitis B,90.4,Europe
+2021,Estonia,Hepatitis B,83.6,Europe
+2010,India,Hepatitis B,38.0,Asia-Pacific
+2011,India,Hepatitis B,44.0,Asia-Pacific
+2012,India,Hepatitis B,73.0,Asia-Pacific
+2013,India,Hepatitis B,70.0,Asia-Pacific
+2014,India,Hepatitis B,79.0,Asia-Pacific
+2015,India,Hepatitis B,87.0,Asia-Pacific
+2016,India,Hepatitis B,88.2,Asia-Pacific
+2017,India,Hepatitis B,89.3,Asia-Pacific
+2018,India,Hepatitis B,99.0,Asia-Pacific
+2019,India,Hepatitis B,90.6,Asia-Pacific
+2020,India,Hepatitis B,85.2,Asia-Pacific
+2021,India,Hepatitis B,85.3,Asia-Pacific
+2010,Indonesia,Hepatitis B,95.0,Asia-Pacific
+2011,Indonesia,Hepatitis B,95.0,Asia-Pacific
+2012,Indonesia,Hepatitis B,100.0,Asia-Pacific
+2013,Indonesia,Hepatitis B,99.0,Asia-Pacific
+2014,Indonesia,Hepatitis B,94.6,Asia-Pacific
+2015,Indonesia,Hepatitis B,93.1,Asia-Pacific
+2016,Indonesia,Hepatitis B,93.3,Asia-Pacific
+2017,Indonesia,Hepatitis B,93.5,Asia-Pacific
+2018,Indonesia,Hepatitis B,92.6,Asia-Pacific
+2019,Indonesia,Hepatitis B,96.5,Asia-Pacific
+2020,Indonesia,Hepatitis B,87.0,Asia-Pacific
+2021,Indonesia,Hepatitis B,80.1,Asia-Pacific
+2010,Israel,Hepatitis B,97.0,Middle East
+2011,Israel,Hepatitis B,98.0,Middle East
+2012,Israel,Hepatitis B,97.0,Middle East
+2013,Israel,Hepatitis B,97.0,Middle East
+2014,Israel,Hepatitis B,97.0,Middle East
+2015,Israel,Hepatitis B,96.0,Middle East
+2016,Israel,Hepatitis B,95.0,Middle East
+2017,Israel,Hepatitis B,97.0,Middle East
+2018,Israel,Hepatitis B,96.4,Middle East
+2019,Israel,Hepatitis B,96.0,Middle East
+2020,Israel,Hepatitis B,96.3,Middle East
+2010,Russia,Hepatitis B,97.0,Europe/Asia
+2011,Russia,Hepatitis B,97.3,Europe/Asia
+2012,Russia,Hepatitis B,97.3,Europe/Asia
+2013,Russia,Hepatitis B,97.2,Europe/Asia
+2014,Russia,Hepatitis B,96.6,Europe/Asia
+2015,Russia,Hepatitis B,97.0,Europe/Asia
+2016,Russia,Hepatitis B,96.9,Europe/Asia
+2017,Russia,Hepatitis B,97.2,Europe/Asia
+2018,Russia,Hepatitis B,96.9,Europe/Asia
+2019,Russia,Hepatitis B,97.1,Europe/Asia
+2020,Russia,Hepatitis B,96.7,Europe/Asia
+2021,Russia,Hepatitis B,96.9,Europe/Asia
+2011,Slovenia,Hepatitis B,92.0,Europe
+2012,Slovenia,Hepatitis B,92.0,Europe
+2013,Slovenia,Hepatitis B,90.0,Europe
+2014,Slovenia,Hepatitis B,89.0,Europe
+2015,Slovenia,Hepatitis B,89.0,Europe
+2016,Slovenia,Hepatitis B,88.0,Europe
+2017,Slovenia,Hepatitis B,89.0,Europe
+2018,Slovenia,Hepatitis B,87.0,Europe
+2010,South Africa,Hepatitis B,88.8,Africa
+2011,South Africa,Hepatitis B,93.9,Africa
+2012,South Africa,Hepatitis B,86.1,Africa
+2013,South Africa,Hepatitis B,88.3,Africa
+2014,South Africa,Hepatitis B,97.5,Africa
+2015,South Africa,Hepatitis B,92.8,Africa
+2016,South Africa,Hepatitis B,84.4,Africa
+2017,South Africa,Hepatitis B,83.7,Africa
+2018,South Africa,Hepatitis B,86.1,Africa
+2019,South Africa,Hepatitis B,85.0,Africa
+2020,South Africa,Hepatitis B,83.8,Africa
+2021,South Africa,Hepatitis B,85.6,Africa
+2010,Denmark,Hepatitis B,,Europe
+2011,Denmark,Hepatitis B,,Europe
+2012,Denmark,Hepatitis B,,Europe
+2013,Denmark,Hepatitis B,,Europe
+2014,Denmark,Hepatitis B,,Europe
+2015,Denmark,Hepatitis B,,Europe
+2016,Denmark,Hepatitis B,,Europe
+2017,Denmark,Hepatitis B,,Europe
+2018,Denmark,Hepatitis B,,Europe
+2019,Denmark,Hepatitis B,,Europe
+2020,Denmark,Hepatitis B,,Europe
+2021,Denmark,Hepatitis B,,Europe
+2010,Finland,Hepatitis B,,Europe
+2011,Finland,Hepatitis B,,Europe
+2012,Finland,Hepatitis B,,Europe
+2013,Finland,Hepatitis B,,Europe
+2014,Finland,Hepatitis B,,Europe
+2015,Finland,Hepatitis B,,Europe
+2016,Finland,Hepatitis B,,Europe
+2017,Finland,Hepatitis B,,Europe
+2018,Finland,Hepatitis B,,Europe
+2019,Finland,Hepatitis B,,Europe
+2020,Finland,Hepatitis B,,Europe
+2020,France,Hepatitis B,,Europe
+2021,Greece,Hepatitis B,,Europe
+2010,Hungary,Hepatitis B,,Europe
+2011,Hungary,Hepatitis B,,Europe
+2012,Hungary,Hepatitis B,,Europe
+2013,Hungary,Hepatitis B,,Europe
+2014,Hungary,Hepatitis B,,Europe
+2015,Hungary,Hepatitis B,,Europe
+2016,Hungary,Hepatitis B,,Europe
+2017,Hungary,Hepatitis B,,Europe
+2018,Hungary,Hepatitis B,,Europe
+2019,Hungary,Hepatitis B,,Europe
+2020,Hungary,Hepatitis B,,Europe
+2021,Hungary,Hepatitis B,,Europe
+2015,Iceland,Hepatitis B,,Europe
+2016,Iceland,Hepatitis B,,Europe
+2017,Iceland,Hepatitis B,,Europe
+2018,Iceland,Hepatitis B,,Europe
+2019,Iceland,Hepatitis B,,Europe
+2020,Iceland,Hepatitis B,,Europe
+2021,Italy,Hepatitis B,,Europe
+2010,Japan,Hepatitis B,,Asia-Pacific
+2011,Japan,Hepatitis B,,Asia-Pacific
+2012,Japan,Hepatitis B,,Asia-Pacific
+2013,Japan,Hepatitis B,,Asia-Pacific
+2014,Japan,Hepatitis B,,Asia-Pacific
+2015,Japan,Hepatitis B,,Asia-Pacific
+2016,Japan,Hepatitis B,,Asia-Pacific
+2017,Japan,Hepatitis B,,Asia-Pacific
+2018,Japan,Hepatitis B,,Asia-Pacific
+2020,Korea,Hepatitis B,,Asia-Pacific
+2010,Norway,Hepatitis B,,Europe
+2011,Norway,Hepatitis B,,Europe
+2012,Norway,Hepatitis B,,Europe
+2013,Norway,Hepatitis B,,Europe
+2014,Norway,Hepatitis B,,Europe
+2015,Norway,Hepatitis B,,Europe
+2016,Norway,Hepatitis B,,Europe
+2017,Norway,Hepatitis B,,Europe
+2018,Norway,Hepatitis B,,Europe
+2010,Sweden,Hepatitis B,,Europe
+2010,Switzerland,Hepatitis B,,Europe
+2010,United Kingdom,Hepatitis B,,Europe
+2011,United Kingdom,Hepatitis B,,Europe
+2012,United Kingdom,Hepatitis B,,Europe
+2013,United Kingdom,Hepatitis B,,Europe
+2014,United Kingdom,Hepatitis B,,Europe
+2015,United Kingdom,Hepatitis B,,Europe
+2016,United Kingdom,Hepatitis B,,Europe
+2017,United Kingdom,Hepatitis B,,Europe
+2018,United Kingdom,Hepatitis B,,Europe
+2021,Chile,Hepatitis B,,Latin America
+2021,Israel,Hepatitis B,,Middle East
+2010,Slovenia,Hepatitis B,,Europe
+2019,Slovenia,Hepatitis B,,Europe
+2020,Slovenia,Hepatitis B,,Europe
+2021,France,Hepatitis B,,Europe
+2010,Iceland,Hepatitis B,,Europe
+2011,Iceland,Hepatitis B,,Europe
+2012,Iceland,Hepatitis B,,Europe
+2013,Iceland,Hepatitis B,,Europe
+2014,Iceland,Hepatitis B,,Europe
+2021,Iceland,Hepatitis B,,Europe
+2011,Switzerland,Hepatitis B,,Europe
+2012,Switzerland,Hepatitis B,,Europe
+2013,Switzerland,Hepatitis B,,Europe
+2014,Switzerland,Hepatitis B,,Europe
+2015,Switzerland,Hepatitis B,,Europe
+2016,Switzerland,Hepatitis B,,Europe
+2021,Sweden,Hepatitis B,,Europe
+2021,Brazil,Hepatitis B,,Latin America
+2021,United States,Hepatitis B,,North America
+2021,Slovenia,Hepatitis B,,Europe
+2021,Portugal,Hepatitis B,,Europe
+2021,Canada,Hepatitis B,,North America
+2020,Latvia,Hepatitis B,99.9,Europe
+2010,Lithuania,Hepatitis B,94.5,Europe
+2011,Lithuania,Hepatitis B,94.6,Europe
+2012,Lithuania,Hepatitis B,93.2,Europe
+2013,Lithuania,Hepatitis B,93.4,Europe
+2014,Lithuania,Hepatitis B,94.0,Europe
+2015,Lithuania,Hepatitis B,93.8,Europe
+2016,Lithuania,Hepatitis B,94.6,Europe
+2017,Lithuania,Hepatitis B,93.8,Europe
+2018,Lithuania,Hepatitis B,92.7,Europe
+2019,Lithuania,Hepatitis B,92.0,Europe
+2020,Lithuania,Hepatitis B,91.4,Europe
+2021,Lithuania,Hepatitis B,90.1,Europe
+2010,Costa Rica,Hepatitis B,87.9,Latin America
+2011,Costa Rica,Hepatitis B,83.8,Latin America
+2012,Costa Rica,Hepatitis B,91.0,Latin America
+2013,Costa Rica,Hepatitis B,94.0,Latin America
+2014,Costa Rica,Hepatitis B,91.0,Latin America
+2015,Costa Rica,Hepatitis B,92.0,Latin America
+2016,Costa Rica,Hepatitis B,96.7,Latin America
+2017,Costa Rica,Hepatitis B,97.0,Latin America
+2018,Costa Rica,Hepatitis B,98.0,Latin America
+2019,Costa Rica,Hepatitis B,98.0,Latin America
+2020,Costa Rica,Hepatitis B,98.0,Latin America
+2010,Latvia,Hepatitis B,91.0,Europe
+2011,Latvia,Hepatitis B,89.0,Europe
+2012,Latvia,Hepatitis B,90.0,Europe
+2013,Latvia,Hepatitis B,94.0,Europe
+2014,Latvia,Hepatitis B,92.0,Europe
+2015,Latvia,Hepatitis B,94.4,Europe
+2016,Latvia,Hepatitis B,97.6,Europe
+2017,Latvia,Hepatitis B,98.1,Europe
+2018,Latvia,Hepatitis B,96.0,Europe
+2019,Latvia,Hepatitis B,100.0,Europe
+2010,Colombia,Hepatitis B,88.0,Latin America
+2011,Colombia,Hepatitis B,85.3,Latin America
+2012,Colombia,Hepatitis B,91.8,Latin America
+2013,Colombia,Hepatitis B,90.8,Latin America
+2014,Colombia,Hepatitis B,90.3,Latin America
+2015,Colombia,Hepatitis B,91.4,Latin America
+2016,Colombia,Hepatitis B,91.3,Latin America
+2017,Colombia,Hepatitis B,91.6,Latin America
+2021,Latvia,Hepatitis B,94.0,Europe
+2018,Colombia,Hepatitis B,92.0,Latin America
+2019,Colombia,Hepatitis B,94.0,Latin America
+2020,Colombia,Hepatitis B,87.9,Latin America
+2021,Colombia,Hepatitis B,87.9,Latin America
+2021,Costa Rica,Hepatitis B,87.4,Latin America
+2010,Australia,"Diphtheria, Tetanus, Pertussis",92.0,Asia-Pacific
+2011,Australia,"Diphtheria, Tetanus, Pertussis",92.0,Asia-Pacific
+2012,Australia,"Diphtheria, Tetanus, Pertussis",92.2,Asia-Pacific
+2013,Australia,"Diphtheria, Tetanus, Pertussis",91.4,Asia-Pacific
+2014,Australia,"Diphtheria, Tetanus, Pertussis",91.6,Asia-Pacific
+2015,Australia,"Diphtheria, Tetanus, Pertussis",93.1,Asia-Pacific
+2016,Australia,"Diphtheria, Tetanus, Pertussis",94.3,Asia-Pacific
+2017,Australia,"Diphtheria, Tetanus, Pertussis",94.8,Asia-Pacific
+2018,Australia,"Diphtheria, Tetanus, Pertussis",94.6,Asia-Pacific
+2019,Australia,"Diphtheria, Tetanus, Pertussis",94.9,Asia-Pacific
+2020,Australia,"Diphtheria, Tetanus, Pertussis",95.4,Asia-Pacific
+2021,Australia,"Diphtheria, Tetanus, Pertussis",95.0,Asia-Pacific
+2010,Austria,"Diphtheria, Tetanus, Pertussis",86.0,Europe
+2011,Austria,"Diphtheria, Tetanus, Pertussis",89.0,Europe
+2012,Austria,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2013,Austria,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2014,Austria,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2015,Austria,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2016,Austria,"Diphtheria, Tetanus, Pertussis",87.0,Europe
+2017,Austria,"Diphtheria, Tetanus, Pertussis",90.0,Europe
+2018,Austria,"Diphtheria, Tetanus, Pertussis",85.0,Europe
+2019,Austria,"Diphtheria, Tetanus, Pertussis",85.0,Europe
+2020,Austria,"Diphtheria, Tetanus, Pertussis",85.0,Europe
+2010,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2011,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2012,Belgium,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2013,Belgium,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2014,Belgium,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2015,Belgium,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2016,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2017,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2018,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2019,Belgium,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2020,Belgium,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2010,Canada,"Diphtheria, Tetanus, Pertussis",89.0,North America
+2011,Canada,"Diphtheria, Tetanus, Pertussis",87.0,North America
+2012,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2013,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2014,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2015,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2016,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2017,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2018,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2019,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2020,Canada,"Diphtheria, Tetanus, Pertussis",91.0,North America
+2010,Czech Republic,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,Czech Republic,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Czech Republic,"Diphtheria, Tetanus, Pertussis",95.8,Europe
+2013,Czech Republic,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2014,Czech Republic,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2015,Czech Republic,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2016,Czech Republic,"Diphtheria, Tetanus, Pertussis",95.8,Europe
+2017,Czech Republic,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2018,Czech Republic,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2019,Czech Republic,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2020,Czech Republic,"Diphtheria, Tetanus, Pertussis",96.8,Europe
+2021,Czech Republic,"Diphtheria, Tetanus, Pertussis",93.7,Europe
+2010,France,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,France,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,France,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2013,France,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2014,France,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2015,France,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2016,France,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2017,France,"Diphtheria, Tetanus, Pertussis",96.1,Europe
+2018,France,"Diphtheria, Tetanus, Pertussis",96.3,Europe
+2019,France,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2010,Germany,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2011,Germany,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2012,Germany,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2013,Germany,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2014,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2015,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2016,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2017,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2018,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2019,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2020,Germany,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2010,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2013,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2014,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2015,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2016,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2017,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2018,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2019,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2020,Greece,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2010,Ireland,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2011,Ireland,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2012,Ireland,"Diphtheria, Tetanus, Pertussis",95.5,Europe
+2013,Ireland,"Diphtheria, Tetanus, Pertussis",95.5,Europe
+2014,Ireland,"Diphtheria, Tetanus, Pertussis",95.5,Europe
+2015,Ireland,"Diphtheria, Tetanus, Pertussis",95.2,Europe
+2016,Ireland,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2017,Ireland,"Diphtheria, Tetanus, Pertussis",94.8,Europe
+2018,Ireland,"Diphtheria, Tetanus, Pertussis",94.5,Europe
+2019,Ireland,"Diphtheria, Tetanus, Pertussis",93.5,Europe
+2020,Ireland,"Diphtheria, Tetanus, Pertussis",94.2,Europe
+2021,Ireland,"Diphtheria, Tetanus, Pertussis",93.5,Europe
+2010,Italy,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2011,Italy,"Diphtheria, Tetanus, Pertussis",95.8,Europe
+2012,Italy,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2013,Italy,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2014,Italy,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2015,Italy,"Diphtheria, Tetanus, Pertussis",93.2,Europe
+2016,Italy,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2017,Italy,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2018,Italy,"Diphtheria, Tetanus, Pertussis",95.1,Europe
+2019,Italy,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2020,Italy,"Diphtheria, Tetanus, Pertussis",93.7,Europe
+2019,Japan,"Diphtheria, Tetanus, Pertussis",98.0,Asia-Pacific
+2020,Japan,"Diphtheria, Tetanus, Pertussis",96.2,Asia-Pacific
+2010,Korea,"Diphtheria, Tetanus, Pertussis",88.3,Asia-Pacific
+2011,Korea,"Diphtheria, Tetanus, Pertussis",86.3,Asia-Pacific
+2012,Korea,"Diphtheria, Tetanus, Pertussis",95.8,Asia-Pacific
+2013,Korea,"Diphtheria, Tetanus, Pertussis",97.1,Asia-Pacific
+2014,Korea,"Diphtheria, Tetanus, Pertussis",97.8,Asia-Pacific
+2015,Korea,"Diphtheria, Tetanus, Pertussis",98.1,Asia-Pacific
+2016,Korea,"Diphtheria, Tetanus, Pertussis",98.2,Asia-Pacific
+2017,Korea,"Diphtheria, Tetanus, Pertussis",97.4,Asia-Pacific
+2018,Korea,"Diphtheria, Tetanus, Pertussis",97.5,Asia-Pacific
+2019,Korea,"Diphtheria, Tetanus, Pertussis",97.3,Asia-Pacific
+2010,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2013,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2014,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2015,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2016,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2017,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2018,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2019,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2020,Luxembourg,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2010,Mexico,"Diphtheria, Tetanus, Pertussis",95.2,Latin America
+2011,Mexico,"Diphtheria, Tetanus, Pertussis",97.3,Latin America
+2012,Mexico,"Diphtheria, Tetanus, Pertussis",98.8,Latin America
+2013,Mexico,"Diphtheria, Tetanus, Pertussis",82.7,Latin America
+2014,Mexico,"Diphtheria, Tetanus, Pertussis",86.9,Latin America
+2015,Mexico,"Diphtheria, Tetanus, Pertussis",87.1,Latin America
+2016,Mexico,"Diphtheria, Tetanus, Pertussis",93.3,Latin America
+2017,Mexico,"Diphtheria, Tetanus, Pertussis",85.0,Latin America
+2018,Mexico,"Diphtheria, Tetanus, Pertussis",88.0,Latin America
+2019,Mexico,"Diphtheria, Tetanus, Pertussis",82.0,Latin America
+2020,Mexico,"Diphtheria, Tetanus, Pertussis",85.8,Latin America
+2021,Mexico,"Diphtheria, Tetanus, Pertussis",77.9,Latin America
+2010,Netherlands,"Diphtheria, Tetanus, Pertussis",96.9,Europe
+2011,Netherlands,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2012,Netherlands,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2013,Netherlands,"Diphtheria, Tetanus, Pertussis",96.6,Europe
+2014,Netherlands,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2015,Netherlands,"Diphtheria, Tetanus, Pertussis",95.5,Europe
+2016,Netherlands,"Diphtheria, Tetanus, Pertussis",94.8,Europe
+2017,Netherlands,"Diphtheria, Tetanus, Pertussis",93.9,Europe
+2018,Netherlands,"Diphtheria, Tetanus, Pertussis",93.5,Europe
+2019,Netherlands,"Diphtheria, Tetanus, Pertussis",93.7,Europe
+2020,Netherlands,"Diphtheria, Tetanus, Pertussis",94.2,Europe
+2021,Netherlands,"Diphtheria, Tetanus, Pertussis",94.7,Europe
+2010,New Zealand,"Diphtheria, Tetanus, Pertussis",93.4,Asia-Pacific
+2011,New Zealand,"Diphtheria, Tetanus, Pertussis",94.5,Asia-Pacific
+2012,New Zealand,"Diphtheria, Tetanus, Pertussis",93.2,Asia-Pacific
+2013,New Zealand,"Diphtheria, Tetanus, Pertussis",92.5,Asia-Pacific
+2014,New Zealand,"Diphtheria, Tetanus, Pertussis",92.7,Asia-Pacific
+2015,New Zealand,"Diphtheria, Tetanus, Pertussis",92.3,Asia-Pacific
+2016,New Zealand,"Diphtheria, Tetanus, Pertussis",92.0,Asia-Pacific
+2017,New Zealand,"Diphtheria, Tetanus, Pertussis",93.7,Asia-Pacific
+2018,New Zealand,"Diphtheria, Tetanus, Pertussis",92.6,Asia-Pacific
+2019,New Zealand,"Diphtheria, Tetanus, Pertussis",91.6,Asia-Pacific
+2020,New Zealand,"Diphtheria, Tetanus, Pertussis",92.0,Asia-Pacific
+2021,New Zealand,"Diphtheria, Tetanus, Pertussis",89.8,Asia-Pacific
+2019,Norway,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2020,Norway,"Diphtheria, Tetanus, Pertussis",97.1,Europe
+2021,Norway,"Diphtheria, Tetanus, Pertussis",96.8,Europe
+2010,Poland,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,Poland,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Poland,"Diphtheria, Tetanus, Pertussis",98.7,Europe
+2013,Poland,"Diphtheria, Tetanus, Pertussis",98.6,Europe
+2014,Poland,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2015,Poland,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2016,Poland,"Diphtheria, Tetanus, Pertussis",97.6,Europe
+2017,Poland,"Diphtheria, Tetanus, Pertussis",96.4,Europe
+2018,Poland,"Diphtheria, Tetanus, Pertussis",95.2,Europe
+2019,Poland,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2020,Poland,"Diphtheria, Tetanus, Pertussis",90.4,Europe
+2010,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2011,Portugal,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2012,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2013,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2014,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2015,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2016,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2017,Portugal,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2018,Portugal,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2019,Portugal,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2020,Portugal,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2010,Slovak Republic,"Diphtheria, Tetanus, Pertussis",99.1,Europe
+2011,Slovak Republic,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Slovak Republic,"Diphtheria, Tetanus, Pertussis",98.7,Europe
+2013,Slovak Republic,"Diphtheria, Tetanus, Pertussis",97.9,Europe
+2014,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.8,Europe
+2015,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2016,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.4,Europe
+2017,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.4,Europe
+2018,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.5,Europe
+2019,Slovak Republic,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2020,Slovak Republic,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2021,Slovak Republic,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2010,Spain,"Diphtheria, Tetanus, Pertussis",96.6,Europe
+2011,Spain,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2012,Spain,"Diphtheria, Tetanus, Pertussis",96.7,Europe
+2013,Spain,"Diphtheria, Tetanus, Pertussis",95.6,Europe
+2014,Spain,"Diphtheria, Tetanus, Pertussis",96.6,Europe
+2015,Spain,"Diphtheria, Tetanus, Pertussis",96.6,Europe
+2016,Spain,"Diphtheria, Tetanus, Pertussis",97.1,Europe
+2017,Spain,"Diphtheria, Tetanus, Pertussis",94.8,Europe
+2018,Spain,"Diphtheria, Tetanus, Pertussis",93.4,Europe
+2019,Spain,"Diphtheria, Tetanus, Pertussis",95.6,Europe
+2020,Spain,"Diphtheria, Tetanus, Pertussis",94.8,Europe
+2021,Spain,"Diphtheria, Tetanus, Pertussis",90.8,Europe
+2011,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2012,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2013,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2014,Sweden,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2015,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2016,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2017,Sweden,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2018,Sweden,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2019,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2020,Sweden,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2017,Switzerland,"Diphtheria, Tetanus, Pertussis",96.5,Europe
+2018,Switzerland,"Diphtheria, Tetanus, Pertussis",95.9,Europe
+2019,Switzerland,"Diphtheria, Tetanus, Pertussis",96.2,Europe
+2020,Switzerland,"Diphtheria, Tetanus, Pertussis",96.5,Europe
+2010,Türkiye,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2011,Türkiye,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2012,Türkiye,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2013,Türkiye,"Diphtheria, Tetanus, Pertussis",98.0,Europe/Asia
+2014,Türkiye,"Diphtheria, Tetanus, Pertussis",96.0,Europe/Asia
+2015,Türkiye,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2016,Türkiye,"Diphtheria, Tetanus, Pertussis",98.0,Europe/Asia
+2017,Türkiye,"Diphtheria, Tetanus, Pertussis",96.0,Europe/Asia
+2018,Türkiye,"Diphtheria, Tetanus, Pertussis",98.0,Europe/Asia
+2019,Türkiye,"Diphtheria, Tetanus, Pertussis",98.7,Europe/Asia
+2020,Türkiye,"Diphtheria, Tetanus, Pertussis",98.4,Europe/Asia
+2021,Türkiye,"Diphtheria, Tetanus, Pertussis",95.5,Europe/Asia
+2019,United Kingdom,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2020,United Kingdom,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2021,United Kingdom,"Diphtheria, Tetanus, Pertussis",92.6,Europe
+2010,United States,"Diphtheria, Tetanus, Pertussis",95.0,North America
+2011,United States,"Diphtheria, Tetanus, Pertussis",96.0,North America
+2012,United States,"Diphtheria, Tetanus, Pertussis",94.0,North America
+2013,United States,"Diphtheria, Tetanus, Pertussis",94.0,North America
+2014,United States,"Diphtheria, Tetanus, Pertussis",95.0,North America
+2015,United States,"Diphtheria, Tetanus, Pertussis",95.0,North America
+2016,United States,"Diphtheria, Tetanus, Pertussis",95.0,North America
+2017,United States,"Diphtheria, Tetanus, Pertussis",94.0,North America
+2018,United States,"Diphtheria, Tetanus, Pertussis",94.0,North America
+2019,United States,"Diphtheria, Tetanus, Pertussis",94.0,North America
+2020,United States,"Diphtheria, Tetanus, Pertussis",93.0,North America
+2010,Brazil,"Diphtheria, Tetanus, Pertussis",99.0,Latin America
+2011,Brazil,"Diphtheria, Tetanus, Pertussis",100.0,Latin America
+2012,Brazil,"Diphtheria, Tetanus, Pertussis",95.0,Latin America
+2013,Brazil,"Diphtheria, Tetanus, Pertussis",97.0,Latin America
+2014,Brazil,"Diphtheria, Tetanus, Pertussis",93.0,Latin America
+2015,Brazil,"Diphtheria, Tetanus, Pertussis",96.0,Latin America
+2016,Brazil,"Diphtheria, Tetanus, Pertussis",89.3,Latin America
+2017,Brazil,"Diphtheria, Tetanus, Pertussis",88.7,Latin America
+2018,Brazil,"Diphtheria, Tetanus, Pertussis",87.0,Latin America
+2019,Brazil,"Diphtheria, Tetanus, Pertussis",70.0,Latin America
+2020,Brazil,"Diphtheria, Tetanus, Pertussis",77.1,Latin America
+2010,Chile,"Diphtheria, Tetanus, Pertussis",92.4,Latin America
+2011,Chile,"Diphtheria, Tetanus, Pertussis",93.7,Latin America
+2012,Chile,"Diphtheria, Tetanus, Pertussis",89.9,Latin America
+2013,Chile,"Diphtheria, Tetanus, Pertussis",89.6,Latin America
+2014,Chile,"Diphtheria, Tetanus, Pertussis",94.7,Latin America
+2015,Chile,"Diphtheria, Tetanus, Pertussis",96.0,Latin America
+2016,Chile,"Diphtheria, Tetanus, Pertussis",94.8,Latin America
+2017,Chile,"Diphtheria, Tetanus, Pertussis",93.0,Latin America
+2018,Chile,"Diphtheria, Tetanus, Pertussis",95.0,Latin America
+2019,Chile,"Diphtheria, Tetanus, Pertussis",96.0,Latin America
+2020,Chile,"Diphtheria, Tetanus, Pertussis",92.7,Latin America
+2010,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.0,Asia-Pacific
+2011,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.6,Asia-Pacific
+2012,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.0,Asia-Pacific
+2013,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.7,Asia-Pacific
+2014,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.0,Asia-Pacific
+2015,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.7,Asia-Pacific
+2016,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.6,Asia-Pacific
+2017,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.6,Asia-Pacific
+2018,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.1,Asia-Pacific
+2019,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.1,Asia-Pacific
+2020,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.4,Asia-Pacific
+2021,China (People's Republic of),"Diphtheria, Tetanus, Pertussis",99.4,Asia-Pacific
+2010,Estonia,"Diphtheria, Tetanus, Pertussis",93.7,Europe
+2011,Estonia,"Diphtheria, Tetanus, Pertussis",93.4,Europe
+2012,Estonia,"Diphtheria, Tetanus, Pertussis",94.2,Europe
+2013,Estonia,"Diphtheria, Tetanus, Pertussis",93.6,Europe
+2014,Estonia,"Diphtheria, Tetanus, Pertussis",93.3,Europe
+2015,Estonia,"Diphtheria, Tetanus, Pertussis",93.2,Europe
+2016,Estonia,"Diphtheria, Tetanus, Pertussis",93.2,Europe
+2017,Estonia,"Diphtheria, Tetanus, Pertussis",92.8,Europe
+2018,Estonia,"Diphtheria, Tetanus, Pertussis",91.9,Europe
+2019,Estonia,"Diphtheria, Tetanus, Pertussis",91.4,Europe
+2020,Estonia,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2021,Estonia,"Diphtheria, Tetanus, Pertussis",89.5,Europe
+2010,India,"Diphtheria, Tetanus, Pertussis",79.0,Asia-Pacific
+2011,India,"Diphtheria, Tetanus, Pertussis",82.0,Asia-Pacific
+2012,India,"Diphtheria, Tetanus, Pertussis",82.0,Asia-Pacific
+2013,India,"Diphtheria, Tetanus, Pertussis",83.0,Asia-Pacific
+2014,India,"Diphtheria, Tetanus, Pertussis",85.0,Asia-Pacific
+2015,India,"Diphtheria, Tetanus, Pertussis",87.0,Asia-Pacific
+2016,India,"Diphtheria, Tetanus, Pertussis",88.0,Asia-Pacific
+2017,India,"Diphtheria, Tetanus, Pertussis",89.0,Asia-Pacific
+2018,India,"Diphtheria, Tetanus, Pertussis",90.0,Asia-Pacific
+2019,India,"Diphtheria, Tetanus, Pertussis",90.6,Asia-Pacific
+2020,India,"Diphtheria, Tetanus, Pertussis",85.2,Asia-Pacific
+2021,India,"Diphtheria, Tetanus, Pertussis",85.3,Asia-Pacific
+2010,Indonesia,"Diphtheria, Tetanus, Pertussis",95.0,Asia-Pacific
+2011,Indonesia,"Diphtheria, Tetanus, Pertussis",95.0,Asia-Pacific
+2012,Indonesia,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2013,Indonesia,"Diphtheria, Tetanus, Pertussis",99.0,Asia-Pacific
+2014,Indonesia,"Diphtheria, Tetanus, Pertussis",92.1,Asia-Pacific
+2015,Indonesia,"Diphtheria, Tetanus, Pertussis",93.1,Asia-Pacific
+2016,Indonesia,"Diphtheria, Tetanus, Pertussis",93.3,Asia-Pacific
+2017,Indonesia,"Diphtheria, Tetanus, Pertussis",93.5,Asia-Pacific
+2018,Indonesia,"Diphtheria, Tetanus, Pertussis",92.6,Asia-Pacific
+2019,Indonesia,"Diphtheria, Tetanus, Pertussis",96.5,Asia-Pacific
+2020,Indonesia,"Diphtheria, Tetanus, Pertussis",87.0,Asia-Pacific
+2021,Indonesia,"Diphtheria, Tetanus, Pertussis",80.0,Asia-Pacific
+2010,Israel,"Diphtheria, Tetanus, Pertussis",95.0,Middle East
+2011,Israel,"Diphtheria, Tetanus, Pertussis",94.0,Middle East
+2012,Israel,"Diphtheria, Tetanus, Pertussis",94.0,Middle East
+2013,Israel,"Diphtheria, Tetanus, Pertussis",96.0,Middle East
+2014,Israel,"Diphtheria, Tetanus, Pertussis",95.0,Middle East
+2015,Israel,"Diphtheria, Tetanus, Pertussis",95.0,Middle East
+2016,Israel,"Diphtheria, Tetanus, Pertussis",94.0,Middle East
+2017,Israel,"Diphtheria, Tetanus, Pertussis",98.0,Middle East
+2018,Israel,"Diphtheria, Tetanus, Pertussis",97.6,Middle East
+2019,Israel,"Diphtheria, Tetanus, Pertussis",98.0,Middle East
+2020,Israel,"Diphtheria, Tetanus, Pertussis",97.7,Middle East
+2010,Russia,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2011,Russia,"Diphtheria, Tetanus, Pertussis",97.2,Europe/Asia
+2012,Russia,"Diphtheria, Tetanus, Pertussis",97.3,Europe/Asia
+2013,Russia,"Diphtheria, Tetanus, Pertussis",97.3,Europe/Asia
+2014,Russia,"Diphtheria, Tetanus, Pertussis",96.5,Europe/Asia
+2015,Russia,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2016,Russia,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2017,Russia,"Diphtheria, Tetanus, Pertussis",97.0,Europe/Asia
+2018,Russia,"Diphtheria, Tetanus, Pertussis",96.9,Europe/Asia
+2019,Russia,"Diphtheria, Tetanus, Pertussis",96.9,Europe/Asia
+2020,Russia,"Diphtheria, Tetanus, Pertussis",96.5,Europe/Asia
+2021,Russia,"Diphtheria, Tetanus, Pertussis",96.7,Europe/Asia
+2011,Slovenia,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2012,Slovenia,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2013,Slovenia,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2014,Slovenia,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2015,Slovenia,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2016,Slovenia,"Diphtheria, Tetanus, Pertussis",94.1,Europe
+2017,Slovenia,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2018,Slovenia,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2010,South Africa,"Diphtheria, Tetanus, Pertussis",77.0,Africa
+2011,South Africa,"Diphtheria, Tetanus, Pertussis",75.0,Africa
+2012,South Africa,"Diphtheria, Tetanus, Pertussis",71.0,Africa
+2013,South Africa,"Diphtheria, Tetanus, Pertussis",81.0,Africa
+2014,South Africa,"Diphtheria, Tetanus, Pertussis",85.0,Africa
+2015,South Africa,"Diphtheria, Tetanus, Pertussis",85.0,Africa
+2016,South Africa,"Diphtheria, Tetanus, Pertussis",85.0,Africa
+2017,South Africa,"Diphtheria, Tetanus, Pertussis",84.0,Africa
+2018,South Africa,"Diphtheria, Tetanus, Pertussis",82.0,Africa
+2019,South Africa,"Diphtheria, Tetanus, Pertussis",85.0,Africa
+2020,South Africa,"Diphtheria, Tetanus, Pertussis",83.8,Africa
+2021,South Africa,"Diphtheria, Tetanus, Pertussis",85.6,Africa
+2010,Denmark,"Diphtheria, Tetanus, Pertussis",90.0,Europe
+2011,Denmark,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2012,Denmark,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2013,Denmark,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2014,Denmark,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2015,Denmark,"Diphtheria, Tetanus, Pertussis",90.0,Europe
+2016,Denmark,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2017,Denmark,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2018,Denmark,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2019,Denmark,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2020,Denmark,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2021,Denmark,"Diphtheria, Tetanus, Pertussis",95.8,Europe
+2010,Finland,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2011,Finland,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2012,Finland,"Diphtheria, Tetanus, Pertussis",99.0,Europe
+2013,Finland,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2014,Finland,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2015,Finland,"Diphtheria, Tetanus, Pertussis",97.0,Europe
+2016,Finland,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2017,Finland,"Diphtheria, Tetanus, Pertussis",89.0,Europe
+2018,Finland,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2019,Finland,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2020,Finland,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2020,France,"Diphtheria, Tetanus, Pertussis",,Europe
+2021,Greece,"Diphtheria, Tetanus, Pertussis",,Europe
+2010,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2011,Hungary,"Diphtheria, Tetanus, Pertussis",99.8,Europe
+2012,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2013,Hungary,"Diphtheria, Tetanus, Pertussis",99.8,Europe
+2014,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2015,Hungary,"Diphtheria, Tetanus, Pertussis",99.8,Europe
+2016,Hungary,"Diphtheria, Tetanus, Pertussis",99.8,Europe
+2017,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2018,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2019,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2020,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2021,Hungary,"Diphtheria, Tetanus, Pertussis",99.9,Europe
+2015,Iceland,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2016,Iceland,"Diphtheria, Tetanus, Pertussis",87.0,Europe
+2017,Iceland,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2018,Iceland,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2019,Iceland,"Diphtheria, Tetanus, Pertussis",92.6,Europe
+2020,Iceland,"Diphtheria, Tetanus, Pertussis",93.4,Europe
+2021,Italy,"Diphtheria, Tetanus, Pertussis",,Europe
+2010,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2011,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2012,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2013,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2014,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2015,Japan,"Diphtheria, Tetanus, Pertussis",96.2,Asia-Pacific
+2016,Japan,"Diphtheria, Tetanus, Pertussis",99.1,Asia-Pacific
+2017,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2018,Japan,"Diphtheria, Tetanus, Pertussis",100.0,Asia-Pacific
+2020,Korea,"Diphtheria, Tetanus, Pertussis",,Asia-Pacific
+2010,Norway,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2011,Norway,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2012,Norway,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2013,Norway,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2014,Norway,"Diphtheria, Tetanus, Pertussis",93.0,Europe
+2015,Norway,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2016,Norway,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2017,Norway,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2018,Norway,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2010,Sweden,"Diphtheria, Tetanus, Pertussis",98.0,Europe
+2010,Switzerland,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2010,United Kingdom,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2011,United Kingdom,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2012,United Kingdom,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2013,United Kingdom,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2014,United Kingdom,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2015,United Kingdom,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2016,United Kingdom,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2017,United Kingdom,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2018,United Kingdom,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2021,Chile,"Diphtheria, Tetanus, Pertussis",,Latin America
+2021,Israel,"Diphtheria, Tetanus, Pertussis",,Middle East
+2010,Slovenia,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2019,Slovenia,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2020,Slovenia,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2021,France,"Diphtheria, Tetanus, Pertussis",96.4,Europe
+2010,Iceland,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2011,Iceland,"Diphtheria, Tetanus, Pertussis",95.4,Europe
+2012,Iceland,"Diphtheria, Tetanus, Pertussis",89.0,Europe
+2013,Iceland,"Diphtheria, Tetanus, Pertussis",91.2,Europe
+2014,Iceland,"Diphtheria, Tetanus, Pertussis",90.0,Europe
+2021,Iceland,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2011,Switzerland,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2012,Switzerland,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2013,Switzerland,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2014,Switzerland,"Diphtheria, Tetanus, Pertussis",95.0,Europe
+2015,Switzerland,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2016,Switzerland,"Diphtheria, Tetanus, Pertussis",95.9,Europe
+2021,Sweden,"Diphtheria, Tetanus, Pertussis",,Europe
+2021,Brazil,"Diphtheria, Tetanus, Pertussis",,Latin America
+2021,United States,"Diphtheria, Tetanus, Pertussis",,North America
+2021,Slovenia,"Diphtheria, Tetanus, Pertussis",,Europe
+2021,Portugal,"Diphtheria, Tetanus, Pertussis",,Europe
+2021,Canada,"Diphtheria, Tetanus, Pertussis",,North America
+2020,Latvia,"Diphtheria, Tetanus, Pertussis",100.0,Europe
+2010,Lithuania,"Diphtheria, Tetanus, Pertussis",94.8,Europe
+2011,Lithuania,"Diphtheria, Tetanus, Pertussis",92.4,Europe
+2012,Lithuania,"Diphtheria, Tetanus, Pertussis",92.8,Europe
+2013,Lithuania,"Diphtheria, Tetanus, Pertussis",93.2,Europe
+2014,Lithuania,"Diphtheria, Tetanus, Pertussis",92.9,Europe
+2015,Lithuania,"Diphtheria, Tetanus, Pertussis",93.5,Europe
+2016,Lithuania,"Diphtheria, Tetanus, Pertussis",94.1,Europe
+2017,Lithuania,"Diphtheria, Tetanus, Pertussis",93.7,Europe
+2018,Lithuania,"Diphtheria, Tetanus, Pertussis",92.3,Europe
+2019,Lithuania,"Diphtheria, Tetanus, Pertussis",92.1,Europe
+2020,Lithuania,"Diphtheria, Tetanus, Pertussis",91.4,Europe
+2021,Lithuania,"Diphtheria, Tetanus, Pertussis",90.1,Europe
+2010,Costa Rica,"Diphtheria, Tetanus, Pertussis",91.0,Latin America
+2011,Costa Rica,"Diphtheria, Tetanus, Pertussis",85.0,Latin America
+2012,Costa Rica,"Diphtheria, Tetanus, Pertussis",91.0,Latin America
+2013,Costa Rica,"Diphtheria, Tetanus, Pertussis",94.7,Latin America
+2014,Costa Rica,"Diphtheria, Tetanus, Pertussis",90.7,Latin America
+2015,Costa Rica,"Diphtheria, Tetanus, Pertussis",92.0,Latin America
+2016,Costa Rica,"Diphtheria, Tetanus, Pertussis",97.3,Latin America
+2017,Costa Rica,"Diphtheria, Tetanus, Pertussis",96.0,Latin America
+2018,Costa Rica,"Diphtheria, Tetanus, Pertussis",94.0,Latin America
+2019,Costa Rica,"Diphtheria, Tetanus, Pertussis",95.0,Latin America
+2020,Costa Rica,"Diphtheria, Tetanus, Pertussis",96.7,Latin America
+2010,Latvia,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2011,Latvia,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2012,Latvia,"Diphtheria, Tetanus, Pertussis",91.0,Europe
+2013,Latvia,"Diphtheria, Tetanus, Pertussis",94.0,Europe
+2014,Latvia,"Diphtheria, Tetanus, Pertussis",92.0,Europe
+2015,Latvia,"Diphtheria, Tetanus, Pertussis",94.9,Europe
+2016,Latvia,"Diphtheria, Tetanus, Pertussis",98.1,Europe
+2017,Latvia,"Diphtheria, Tetanus, Pertussis",98.1,Europe
+2018,Latvia,"Diphtheria, Tetanus, Pertussis",96.0,Europe
+2019,Latvia,"Diphtheria, Tetanus, Pertussis",100.0,Europe
+2010,Colombia,"Diphtheria, Tetanus, Pertussis",88.0,Latin America
+2011,Colombia,"Diphtheria, Tetanus, Pertussis",85.3,Latin America
+2012,Colombia,"Diphtheria, Tetanus, Pertussis",91.8,Latin America
+2013,Colombia,"Diphtheria, Tetanus, Pertussis",90.8,Latin America
+2014,Colombia,"Diphtheria, Tetanus, Pertussis",90.3,Latin America
+2015,Colombia,"Diphtheria, Tetanus, Pertussis",91.4,Latin America
+2016,Colombia,"Diphtheria, Tetanus, Pertussis",91.3,Latin America
+2017,Colombia,"Diphtheria, Tetanus, Pertussis",91.6,Latin America
+2021,Latvia,"Diphtheria, Tetanus, Pertussis",94.4,Europe
+2018,Colombia,"Diphtheria, Tetanus, Pertussis",92.0,Latin America
+2019,Colombia,"Diphtheria, Tetanus, Pertussis",94.0,Latin America
+2020,Colombia,"Diphtheria, Tetanus, Pertussis",87.9,Latin America
+2021,Colombia,"Diphtheria, Tetanus, Pertussis",86.5,Latin America
+2021,Costa Rica,"Diphtheria, Tetanus, Pertussis",92.2,Latin America
+2010,Australia,Measles,93.9,Asia-Pacific
+2011,Australia,Measles,94.0,Asia-Pacific
+2012,Australia,Measles,94.4,Asia-Pacific
+2013,Australia,Measles,93.7,Asia-Pacific
+2014,Australia,Measles,94.4,Asia-Pacific
+2015,Australia,Measles,94.7,Asia-Pacific
+2016,Australia,Measles,95.0,Asia-Pacific
+2017,Australia,Measles,95.0,Asia-Pacific
+2018,Australia,Measles,95.0,Asia-Pacific
+2019,Australia,Measles,95.0,Asia-Pacific
+2020,Australia,Measles,95.0,Asia-Pacific
+2021,Australia,Measles,92.7,Asia-Pacific
+2010,Austria,Measles,80.0,Europe
+2011,Austria,Measles,84.0,Europe
+2012,Austria,Measles,88.0,Europe
+2013,Austria,Measles,92.0,Europe
+2014,Austria,Measles,96.0,Europe
+2015,Austria,Measles,96.0,Europe
+2016,Austria,Measles,95.0,Europe
+2017,Austria,Measles,96.0,Europe
+2018,Austria,Measles,94.0,Europe
+2019,Austria,Measles,94.0,Europe
+2020,Austria,Measles,94.0,Europe
+2010,Belgium,Measles,95.0,Europe
+2011,Belgium,Measles,95.0,Europe
+2012,Belgium,Measles,96.0,Europe
+2013,Belgium,Measles,96.0,Europe
+2014,Belgium,Measles,96.0,Europe
+2015,Belgium,Measles,96.0,Europe
+2016,Belgium,Measles,96.0,Europe
+2017,Belgium,Measles,96.0,Europe
+2018,Belgium,Measles,96.0,Europe
+2019,Belgium,Measles,96.0,Europe
+2020,Belgium,Measles,96.0,Europe
+2010,Canada,Measles,90.0,North America
+2011,Canada,Measles,88.0,North America
+2012,Canada,Measles,89.0,North America
+2013,Canada,Measles,90.0,North America
+2014,Canada,Measles,90.0,North America
+2015,Canada,Measles,89.0,North America
+2016,Canada,Measles,89.0,North America
+2017,Canada,Measles,90.0,North America
+2018,Canada,Measles,90.0,North America
+2019,Canada,Measles,90.0,North America
+2020,Canada,Measles,90.0,North America
+2010,Czech Republic,Measles,98.0,Europe
+2011,Czech Republic,Measles,98.0,Europe
+2012,Czech Republic,Measles,98.0,Europe
+2013,Czech Republic,Measles,99.0,Europe
+2014,Czech Republic,Measles,99.4,Europe
+2015,Czech Republic,Measles,99.0,Europe
+2016,Czech Republic,Measles,97.5,Europe
+2017,Czech Republic,Measles,97.0,Europe
+2018,Czech Republic,Measles,96.4,Europe
+2019,Czech Republic,Measles,92.4,Europe
+2020,Czech Republic,Measles,94.4,Europe
+2021,Czech Republic,Measles,96.6,Europe
+2010,France,Measles,89.0,Europe
+2011,France,Measles,89.0,Europe
+2012,France,Measles,91.0,Europe
+2013,France,Measles,90.0,Europe
+2014,France,Measles,91.0,Europe
+2015,France,Measles,91.0,Europe
+2016,France,Measles,90.5,Europe
+2017,France,Measles,90.3,Europe
+2018,France,Measles,89.6,Europe
+2019,France,Measles,90.0,Europe
+2010,Germany,Measles,96.1,Europe
+2011,Germany,Measles,96.4,Europe
+2012,Germany,Measles,96.6,Europe
+2013,Germany,Measles,96.7,Europe
+2014,Germany,Measles,96.7,Europe
+2015,Germany,Measles,96.8,Europe
+2016,Germany,Measles,96.8,Europe
+2017,Germany,Measles,97.1,Europe
+2018,Germany,Measles,97.1,Europe
+2019,Germany,Measles,97.2,Europe
+2020,Germany,Measles,97.2,Europe
+2010,Greece,Measles,99.0,Europe
+2011,Greece,Measles,99.0,Europe
+2012,Greece,Measles,99.0,Europe
+2013,Greece,Measles,99.0,Europe
+2014,Greece,Measles,97.0,Europe
+2015,Greece,Measles,97.0,Europe
+2016,Greece,Measles,97.0,Europe
+2017,Greece,Measles,97.0,Europe
+2018,Greece,Measles,97.0,Europe
+2019,Greece,Measles,97.0,Europe
+2020,Greece,Measles,97.0,Europe
+2010,Ireland,Measles,90.0,Europe
+2011,Ireland,Measles,92.0,Europe
+2012,Ireland,Measles,92.4,Europe
+2013,Ireland,Measles,93.0,Europe
+2014,Ireland,Measles,93.0,Europe
+2015,Ireland,Measles,92.9,Europe
+2016,Ireland,Measles,92.0,Europe
+2017,Ireland,Measles,92.0,Europe
+2018,Ireland,Measles,92.3,Europe
+2019,Ireland,Measles,91.0,Europe
+2020,Ireland,Measles,91.8,Europe
+2021,Ireland,Measles,90.4,Europe
+2010,Italy,Measles,91.0,Europe
+2011,Italy,Measles,90.1,Europe
+2012,Italy,Measles,90.3,Europe
+2013,Italy,Measles,90.0,Europe
+2014,Italy,Measles,87.0,Europe
+2015,Italy,Measles,85.2,Europe
+2016,Italy,Measles,87.0,Europe
+2017,Italy,Measles,91.6,Europe
+2018,Italy,Measles,93.2,Europe
+2019,Italy,Measles,94.5,Europe
+2020,Italy,Measles,91.9,Europe
+2019,Japan,Measles,96.0,Asia-Pacific
+2020,Japan,Measles,98.5,Asia-Pacific
+2010,Korea,Measles,95.3,Asia-Pacific
+2011,Korea,Measles,88.0,Asia-Pacific
+2012,Korea,Measles,94.8,Asia-Pacific
+2013,Korea,Measles,96.7,Asia-Pacific
+2014,Korea,Measles,96.5,Asia-Pacific
+2015,Korea,Measles,98.1,Asia-Pacific
+2016,Korea,Measles,98.2,Asia-Pacific
+2017,Korea,Measles,97.4,Asia-Pacific
+2018,Korea,Measles,97.6,Asia-Pacific
+2019,Korea,Measles,97.4,Asia-Pacific
+2010,Luxembourg,Measles,96.0,Europe
+2011,Luxembourg,Measles,96.0,Europe
+2012,Luxembourg,Measles,99.0,Europe
+2013,Luxembourg,Measles,99.0,Europe
+2014,Luxembourg,Measles,99.0,Europe
+2015,Luxembourg,Measles,99.0,Europe
+2016,Luxembourg,Measles,99.0,Europe
+2017,Luxembourg,Measles,99.0,Europe
+2018,Luxembourg,Measles,99.0,Europe
+2019,Luxembourg,Measles,99.0,Europe
+2020,Luxembourg,Measles,99.0,Europe
+2010,Mexico,Measles,95.2,Latin America
+2011,Mexico,Measles,98.4,Latin America
+2012,Mexico,Measles,98.8,Latin America
+2013,Mexico,Measles,88.7,Latin America
+2014,Mexico,Measles,97.8,Latin America
+2015,Mexico,Measles,97.0,Latin America
+2016,Mexico,Measles,97.0,Latin America
+2017,Mexico,Measles,76.0,Latin America
+2018,Mexico,Measles,97.0,Latin America
+2019,Mexico,Measles,73.0,Latin America
+2020,Mexico,Measles,73.0,Latin America
+2021,Mexico,Measles,89.0,Latin America
+2010,Netherlands,Measles,95.9,Europe
+2011,Netherlands,Measles,95.9,Europe
+2012,Netherlands,Measles,96.1,Europe
+2013,Netherlands,Measles,96.0,Europe
+2014,Netherlands,Measles,95.5,Europe
+2015,Netherlands,Measles,94.8,Europe
+2016,Netherlands,Measles,93.8,Europe
+2017,Netherlands,Measles,92.9,Europe
+2018,Netherlands,Measles,92.9,Europe
+2019,Netherlands,Measles,93.6,Europe
+2020,Netherlands,Measles,93.6,Europe
+2021,Netherlands,Measles,92.8,Europe
+2010,New Zealand,Measles,91.3,Asia-Pacific
+2011,New Zealand,Measles,93.3,Asia-Pacific
+2012,New Zealand,Measles,92.4,Asia-Pacific
+2013,New Zealand,Measles,92.4,Asia-Pacific
+2014,New Zealand,Measles,92.6,Asia-Pacific
+2015,New Zealand,Measles,92.6,Asia-Pacific
+2016,New Zealand,Measles,92.1,Asia-Pacific
+2017,New Zealand,Measles,93.3,Asia-Pacific
+2018,New Zealand,Measles,91.9,Asia-Pacific
+2019,New Zealand,Measles,91.8,Asia-Pacific
+2020,New Zealand,Measles,91.5,Asia-Pacific
+2021,New Zealand,Measles,91.1,Asia-Pacific
+2019,Norway,Measles,97.0,Europe
+2020,Norway,Measles,96.7,Europe
+2021,Norway,Measles,96.6,Europe
+2010,Poland,Measles,98.2,Europe
+2011,Poland,Measles,98.0,Europe
+2012,Poland,Measles,97.9,Europe
+2013,Poland,Measles,97.5,Europe
+2014,Poland,Measles,97.0,Europe
+2015,Poland,Measles,96.0,Europe
+2016,Poland,Measles,95.5,Europe
+2017,Poland,Measles,94.0,Europe
+2018,Poland,Measles,92.9,Europe
+2019,Poland,Measles,93.0,Europe
+2020,Poland,Measles,80.3,Europe
+2010,Portugal,Measles,96.0,Europe
+2011,Portugal,Measles,97.0,Europe
+2012,Portugal,Measles,97.0,Europe
+2013,Portugal,Measles,98.0,Europe
+2014,Portugal,Measles,98.0,Europe
+2015,Portugal,Measles,98.0,Europe
+2016,Portugal,Measles,98.0,Europe
+2017,Portugal,Measles,98.0,Europe
+2018,Portugal,Measles,99.0,Europe
+2019,Portugal,Measles,99.0,Europe
+2020,Portugal,Measles,99.0,Europe
+2010,Slovak Republic,Measles,98.5,Europe
+2011,Slovak Republic,Measles,98.3,Europe
+2012,Slovak Republic,Measles,99.0,Europe
+2013,Slovak Republic,Measles,98.2,Europe
+2014,Slovak Republic,Measles,96.6,Europe
+2015,Slovak Republic,Measles,95.2,Europe
+2016,Slovak Republic,Measles,95.2,Europe
+2017,Slovak Republic,Measles,95.8,Europe
+2018,Slovak Republic,Measles,96.1,Europe
+2019,Slovak Republic,Measles,96.2,Europe
+2020,Slovak Republic,Measles,96.0,Europe
+2021,Slovak Republic,Measles,95.4,Europe
+2010,Spain,Measles,95.2,Europe
+2011,Spain,Measles,96.8,Europe
+2012,Spain,Measles,97.4,Europe
+2013,Spain,Measles,95.3,Europe
+2014,Spain,Measles,96.1,Europe
+2015,Spain,Measles,96.1,Europe
+2016,Spain,Measles,96.5,Europe
+2017,Spain,Measles,97.7,Europe
+2018,Spain,Measles,97.1,Europe
+2019,Spain,Measles,97.9,Europe
+2020,Spain,Measles,97.5,Europe
+2021,Spain,Measles,94.4,Europe
+2011,Sweden,Measles,97.0,Europe
+2012,Sweden,Measles,98.0,Europe
+2013,Sweden,Measles,97.0,Europe
+2014,Sweden,Measles,97.0,Europe
+2015,Sweden,Measles,98.0,Europe
+2016,Sweden,Measles,97.0,Europe
+2017,Sweden,Measles,97.0,Europe
+2018,Sweden,Measles,97.0,Europe
+2019,Sweden,Measles,97.0,Europe
+2020,Sweden,Measles,97.0,Europe
+2017,Switzerland,Measles,95.1,Europe
+2018,Switzerland,Measles,95.5,Europe
+2019,Switzerland,Measles,95.3,Europe
+2020,Switzerland,Measles,97.1,Europe
+2010,Türkiye,Measles,97.0,Europe/Asia
+2011,Türkiye,Measles,98.0,Europe/Asia
+2012,Türkiye,Measles,96.0,Europe/Asia
+2013,Türkiye,Measles,98.0,Europe/Asia
+2014,Türkiye,Measles,94.0,Europe/Asia
+2015,Türkiye,Measles,97.0,Europe/Asia
+2016,Türkiye,Measles,98.0,Europe/Asia
+2017,Türkiye,Measles,96.0,Europe/Asia
+2018,Türkiye,Measles,96.0,Europe/Asia
+2019,Türkiye,Measles,97.0,Europe/Asia
+2020,Türkiye,Measles,95.0,Europe/Asia
+2021,Türkiye,Measles,96.1,Europe/Asia
+2019,United Kingdom,Measles,91.0,Europe
+2020,United Kingdom,Measles,91.1,Europe
+2021,United Kingdom,Measles,90.9,Europe
+2010,United States,Measles,92.0,North America
+2011,United States,Measles,92.0,North America
+2012,United States,Measles,91.0,North America
+2013,United States,Measles,92.0,North America
+2014,United States,Measles,92.0,North America
+2015,United States,Measles,92.0,North America
+2016,United States,Measles,92.0,North America
+2017,United States,Measles,92.0,North America
+2018,United States,Measles,92.0,North America
+2019,United States,Measles,90.0,North America
+2020,United States,Measles,91.0,North America
+2010,Brazil,Measles,100.0,Latin America
+2011,Brazil,Measles,99.0,Latin America
+2012,Brazil,Measles,99.0,Latin America
+2013,Brazil,Measles,98.0,Latin America
+2014,Brazil,Measles,97.0,Latin America
+2015,Brazil,Measles,96.1,Latin America
+2016,Brazil,Measles,95.4,Latin America
+2017,Brazil,Measles,97.1,Latin America
+2018,Brazil,Measles,92.0,Latin America
+2019,Brazil,Measles,91.0,Latin America
+2020,Brazil,Measles,79.5,Latin America
+2010,Chile,Measles,92.8,Latin America
+2011,Chile,Measles,90.8,Latin America
+2012,Chile,Measles,89.9,Latin America
+2013,Chile,Measles,89.6,Latin America
+2014,Chile,Measles,96.7,Latin America
+2015,Chile,Measles,96.4,Latin America
+2016,Chile,Measles,92.8,Latin America
+2017,Chile,Measles,93.0,Latin America
+2018,Chile,Measles,93.0,Latin America
+2019,Chile,Measles,95.0,Latin America
+2020,Chile,Measles,90.9,Latin America
+2010,China (People's Republic of),Measles,99.4,Asia-Pacific
+2011,China (People's Republic of),Measles,99.6,Asia-Pacific
+2012,China (People's Republic of),Measles,99.0,Asia-Pacific
+2013,China (People's Republic of),Measles,99.6,Asia-Pacific
+2014,China (People's Republic of),Measles,99.0,Asia-Pacific
+2015,China (People's Republic of),Measles,99.5,Asia-Pacific
+2016,China (People's Republic of),Measles,99.5,Asia-Pacific
+2017,China (People's Republic of),Measles,99.6,Asia-Pacific
+2018,China (People's Republic of),Measles,98.6,Asia-Pacific
+2019,China (People's Republic of),Measles,98.8,Asia-Pacific
+2020,China (People's Republic of),Measles,99.2,Asia-Pacific
+2021,China (People's Republic of),Measles,99.4,Asia-Pacific
+2010,Estonia,Measles,95.1,Europe
+2011,Estonia,Measles,93.9,Europe
+2012,Estonia,Measles,93.6,Europe
+2013,Estonia,Measles,93.7,Europe
+2014,Estonia,Measles,93.4,Europe
+2015,Estonia,Measles,93.4,Europe
+2016,Estonia,Measles,93.2,Europe
+2017,Estonia,Measles,93.3,Europe
+2018,Estonia,Measles,86.9,Europe
+2019,Estonia,Measles,87.8,Europe
+2020,Estonia,Measles,90.8,Europe
+2021,Estonia,Measles,89.4,Europe
+2010,India,Measles,88.0,Asia-Pacific
+2011,India,Measles,89.0,Asia-Pacific
+2012,India,Measles,89.0,Asia-Pacific
+2013,India,Measles,89.0,Asia-Pacific
+2014,India,Measles,85.0,Asia-Pacific
+2015,India,Measles,87.0,Asia-Pacific
+2016,India,Measles,88.4,Asia-Pacific
+2017,India,Measles,89.6,Asia-Pacific
+2018,India,Measles,99.7,Asia-Pacific
+2019,India,Measles,95.3,Asia-Pacific
+2020,India,Measles,88.6,Asia-Pacific
+2021,India,Measles,88.9,Asia-Pacific
+2010,Indonesia,Measles,94.0,Asia-Pacific
+2011,Indonesia,Measles,94.0,Asia-Pacific
+2012,Indonesia,Measles,99.0,Asia-Pacific
+2013,Indonesia,Measles,98.0,Asia-Pacific
+2014,Indonesia,Measles,91.8,Asia-Pacific
+2015,Indonesia,Measles,92.3,Asia-Pacific
+2016,Indonesia,Measles,93.0,Asia-Pacific
+2017,Indonesia,Measles,92.0,Asia-Pacific
+2018,Indonesia,Measles,92.0,Asia-Pacific
+2019,Indonesia,Measles,95.1,Asia-Pacific
+2020,Indonesia,Measles,86.2,Asia-Pacific
+2021,Indonesia,Measles,87.3,Asia-Pacific
+2010,Israel,Measles,96.0,Middle East
+2011,Israel,Measles,97.0,Middle East
+2012,Israel,Measles,96.0,Middle East
+2013,Israel,Measles,98.0,Middle East
+2014,Israel,Measles,97.0,Middle East
+2015,Israel,Measles,98.0,Middle East
+2016,Israel,Measles,97.0,Middle East
+2017,Israel,Measles,98.0,Middle East
+2018,Israel,Measles,98.4,Middle East
+2019,Israel,Measles,99.0,Middle East
+2020,Israel,Measles,98.8,Middle East
+2010,Russia,Measles,98.0,Europe/Asia
+2011,Russia,Measles,98.2,Europe/Asia
+2012,Russia,Measles,98.1,Europe/Asia
+2013,Russia,Measles,98.1,Europe/Asia
+2014,Russia,Measles,97.8,Europe/Asia
+2015,Russia,Measles,97.9,Europe/Asia
+2016,Russia,Measles,97.7,Europe/Asia
+2017,Russia,Measles,97.7,Europe/Asia
+2018,Russia,Measles,97.6,Europe/Asia
+2019,Russia,Measles,97.7,Europe/Asia
+2020,Russia,Measles,97.3,Europe/Asia
+2021,Russia,Measles,97.3,Europe/Asia
+2011,Slovenia,Measles,96.0,Europe
+2012,Slovenia,Measles,95.0,Europe
+2013,Slovenia,Measles,94.0,Europe
+2014,Slovenia,Measles,94.0,Europe
+2015,Slovenia,Measles,94.0,Europe
+2016,Slovenia,Measles,92.3,Europe
+2017,Slovenia,Measles,93.0,Europe
+2018,Slovenia,Measles,93.0,Europe
+2010,South Africa,Measles,84.8,Africa
+2011,South Africa,Measles,88.5,Africa
+2012,South Africa,Measles,89.1,Africa
+2013,South Africa,Measles,87.3,Africa
+2014,South Africa,Measles,91.7,Africa
+2015,South Africa,Measles,97.4,Africa
+2016,South Africa,Measles,84.0,Africa
+2017,South Africa,Measles,81.1,Africa
+2018,South Africa,Measles,81.7,Africa
+2019,South Africa,Measles,83.3,Africa
+2020,South Africa,Measles,84.0,Africa
+2021,South Africa,Measles,87.4,Africa
+2010,Denmark,Measles,85.0,Europe
+2011,Denmark,Measles,87.0,Europe
+2012,Denmark,Measles,87.0,Europe
+2013,Denmark,Measles,86.0,Europe
+2014,Denmark,Measles,87.0,Europe
+2015,Denmark,Measles,88.0,Europe
+2016,Denmark,Measles,91.0,Europe
+2017,Denmark,Measles,94.0,Europe
+2018,Denmark,Measles,94.0,Europe
+2019,Denmark,Measles,95.0,Europe
+2020,Denmark,Measles,93.6,Europe
+2021,Denmark,Measles,94.1,Europe
+2010,Finland,Measles,98.0,Europe
+2011,Finland,Measles,97.0,Europe
+2012,Finland,Measles,97.0,Europe
+2013,Finland,Measles,97.0,Europe
+2014,Finland,Measles,96.0,Europe
+2015,Finland,Measles,95.0,Europe
+2016,Finland,Measles,94.0,Europe
+2017,Finland,Measles,94.0,Europe
+2018,Finland,Measles,96.0,Europe
+2019,Finland,Measles,96.0,Europe
+2020,Finland,Measles,96.0,Europe
+2020,France,Measles,,Europe
+2021,Greece,Measles,,Europe
+2010,Hungary,Measles,99.9,Europe
+2011,Hungary,Measles,99.9,Europe
+2012,Hungary,Measles,99.8,Europe
+2013,Hungary,Measles,99.9,Europe
+2014,Hungary,Measles,99.8,Europe
+2015,Hungary,Measles,99.9,Europe
+2016,Hungary,Measles,99.8,Europe
+2017,Hungary,Measles,99.9,Europe
+2018,Hungary,Measles,99.9,Europe
+2019,Hungary,Measles,99.9,Europe
+2020,Hungary,Measles,99.8,Europe
+2021,Hungary,Measles,99.8,Europe
+2015,Iceland,Measles,93.0,Europe
+2016,Iceland,Measles,92.0,Europe
+2017,Iceland,Measles,92.0,Europe
+2018,Iceland,Measles,93.0,Europe
+2019,Iceland,Measles,92.6,Europe
+2020,Iceland,Measles,92.9,Europe
+2021,Italy,Measles,,Europe
+2010,Japan,Measles,94.3,Asia-Pacific
+2011,Japan,Measles,93.6,Asia-Pacific
+2012,Japan,Measles,95.7,Asia-Pacific
+2013,Japan,Measles,95.3,Asia-Pacific
+2014,Japan,Measles,97.5,Asia-Pacific
+2015,Japan,Measles,95.5,Asia-Pacific
+2016,Japan,Measles,96.4,Asia-Pacific
+2017,Japan,Measles,102.5,Asia-Pacific
+2018,Japan,Measles,97.2,Asia-Pacific
+2020,Korea,Measles,,Asia-Pacific
+2010,Norway,Measles,93.0,Europe
+2011,Norway,Measles,93.0,Europe
+2012,Norway,Measles,94.0,Europe
+2013,Norway,Measles,93.0,Europe
+2014,Norway,Measles,94.0,Europe
+2015,Norway,Measles,95.0,Europe
+2016,Norway,Measles,96.0,Europe
+2017,Norway,Measles,96.0,Europe
+2018,Norway,Measles,96.0,Europe
+2010,Sweden,Measles,97.0,Europe
+2010,Switzerland,Measles,92.0,Europe
+2010,United Kingdom,Measles,89.0,Europe
+2011,United Kingdom,Measles,90.0,Europe
+2012,United Kingdom,Measles,92.0,Europe
+2013,United Kingdom,Measles,93.0,Europe
+2014,United Kingdom,Measles,93.0,Europe
+2015,United Kingdom,Measles,93.0,Europe
+2016,United Kingdom,Measles,92.0,Europe
+2017,United Kingdom,Measles,92.0,Europe
+2018,United Kingdom,Measles,92.0,Europe
+2021,Chile,Measles,,Latin America
+2021,Israel,Measles,,Middle East
+2010,Slovenia,Measles,95.0,Europe
+2019,Slovenia,Measles,94.0,Europe
+2020,Slovenia,Measles,94.0,Europe
+2021,France,Measles,91.9,Europe
+2010,Iceland,Measles,93.0,Europe
+2011,Iceland,Measles,94.3,Europe
+2012,Iceland,Measles,90.0,Europe
+2013,Iceland,Measles,91.3,Europe
+2014,Iceland,Measles,90.0,Europe
+2021,Iceland,Measles,91.6,Europe
+2011,Switzerland,Measles,93.0,Europe
+2012,Switzerland,Measles,93.0,Europe
+2013,Switzerland,Measles,93.0,Europe
+2014,Switzerland,Measles,94.0,Europe
+2015,Switzerland,Measles,94.1,Europe
+2016,Switzerland,Measles,93.6,Europe
+2021,Sweden,Measles,,Europe
+2021,Brazil,Measles,,Latin America
+2021,United States,Measles,,North America
+2021,Slovenia,Measles,,Europe
+2021,Portugal,Measles,,Europe
+2021,Canada,Measles,,North America
+2020,Latvia,Measles,98.9,Europe
+2010,Lithuania,Measles,96.1,Europe
+2011,Lithuania,Measles,93.7,Europe
+2012,Lithuania,Measles,93.4,Europe
+2013,Lithuania,Measles,93.3,Europe
+2014,Lithuania,Measles,93.4,Europe
+2015,Lithuania,Measles,94.2,Europe
+2016,Lithuania,Measles,93.7,Europe
+2017,Lithuania,Measles,93.5,Europe
+2018,Lithuania,Measles,92.2,Europe
+2019,Lithuania,Measles,92.7,Europe
+2020,Lithuania,Measles,90.1,Europe
+2021,Lithuania,Measles,88.4,Europe
+2010,Costa Rica,Measles,85.0,Latin America
+2011,Costa Rica,Measles,83.0,Latin America
+2012,Costa Rica,Measles,91.5,Latin America
+2013,Costa Rica,Measles,91.3,Latin America
+2014,Costa Rica,Measles,95.4,Latin America
+2015,Costa Rica,Measles,93.0,Latin America
+2016,Costa Rica,Measles,93.1,Latin America
+2017,Costa Rica,Measles,96.0,Latin America
+2018,Costa Rica,Measles,94.0,Latin America
+2019,Costa Rica,Measles,95.0,Latin America
+2020,Costa Rica,Measles,94.9,Latin America
+2010,Latvia,Measles,93.0,Europe
+2011,Latvia,Measles,92.0,Europe
+2012,Latvia,Measles,90.0,Europe
+2013,Latvia,Measles,96.0,Europe
+2014,Latvia,Measles,95.0,Europe
+2015,Latvia,Measles,96.0,Europe
+2016,Latvia,Measles,93.3,Europe
+2017,Latvia,Measles,96.4,Europe
+2018,Latvia,Measles,98.0,Europe
+2019,Latvia,Measles,99.0,Europe
+2010,Colombia,Measles,88.5,Latin America
+2011,Colombia,Measles,87.6,Latin America
+2012,Colombia,Measles,93.8,Latin America
+2013,Colombia,Measles,92.3,Latin America
+2014,Colombia,Measles,91.3,Latin America
+2015,Colombia,Measles,94.0,Latin America
+2016,Colombia,Measles,92.6,Latin America
+2017,Colombia,Measles,93.0,Latin America
+2021,Latvia,Measles,96.5,Europe
+2018,Colombia,Measles,95.0,Latin America
+2019,Colombia,Measles,95.0,Latin America
+2020,Colombia,Measles,90.5,Latin America
+2021,Colombia,Measles,86.4,Latin America
+2021,Costa Rica,Measles,88.8,Latin America
