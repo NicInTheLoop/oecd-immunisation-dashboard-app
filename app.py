@@ -523,11 +523,12 @@ def server(input, output, session):
         selected_country_arrows = [
             # Add an arrow beside countries selected in the sidebar.
             {
-                "x": -0.5,
+                "x": 0,
                 "xref": "paper",
+                "xshift": -160,
                 "y": row["country"],
                 "yref": "y",
-                "text": "➤",
+                "text": "\u25B6",
                 "showarrow": False,
                 "font": {
                     "color": selected_arrow_color(row["coverage"]),
