@@ -520,6 +520,27 @@ def server(input, output, session):
                 return "#9DCAEC"
             return "#8FD3BE"
 
+        selected_country_arrows = [
+            # Add an arrow beside countries selected in the sidebar.
+            {
+                "x": 0,
+                "xref": "paper",
+                "xshift": -160,
+                "y": row["country"],
+                "yref": "y",
+                "text": "\u25B6",
+                "showarrow": False,
+                "font": {
+                    "color": selected_arrow_color(row["coverage"]),
+                    "size": 28
+                },
+                "xanchor": "center",
+                "yanchor": "middle"
+            }
+            for _, row in latest_data.iterrows()
+            if row["country"] in selected_countries
+        ]
+
         pivot_df = (
             # Pivot turns the data into a table shape that the heatmap needs:
             # countries down the side, years across the top.
@@ -530,19 +551,11 @@ def server(input, output, session):
             )
             .reindex(country_order)
         )
-        heatmap_x_values = [""] + [str(year) for year in pivot_df.columns]
-        heatmap_z_values = [
-            [None] + row
-            for row in pivot_df.replace({np.nan: None}).values.tolist()
-        ]
-        selected_latest_data = latest_data[
-            latest_data["country"].isin(selected_countries)
-        ]
 
         fig = go.Figure(
             go.Heatmap(
-                z=heatmap_z_values,
-                x=heatmap_x_values,
+                z=pivot_df.replace({np.nan: None}).values.tolist(),
+                x=[str(year) for year in pivot_df.columns],
                 y=pivot_df.index.tolist(),
                 colorscale=[
                     [0.0, "#D97B66"],
@@ -560,28 +573,9 @@ def server(input, output, session):
                     "Year: %{x}<br>"
                     "Coverage: %{z:.1f}%"
                     "<extra></extra>"
-                ),
-                hoverongaps=False
-            )
-        )
-        if not selected_latest_data.empty:
-            fig.add_trace(
-                go.Scatter(
-                    x=[""] * len(selected_latest_data),
-                    y=selected_latest_data["country"].tolist(),
-                    text=["\u25B6"] * len(selected_latest_data),
-                    mode="text",
-                    textfont={
-                        "color": [
-                            selected_arrow_color(coverage)
-                            for coverage in selected_latest_data["coverage"]
-                        ],
-                        "size": 24
-                    },
-                    hoverinfo="skip",
-                    showlegend=False
                 )
             )
+        )
 
         fig.update_layout(
             title={
@@ -595,12 +589,10 @@ def server(input, output, session):
             yaxis_title="Country",
             height=900,
             margin={"l": 190, "r": 30, "t": 70, "b": 60},
+            annotations=selected_country_arrows,
             hoverlabel={"bgcolor": "white", "font_color": "#1f2937"}
         )
         fig.update_xaxes(
-            tickmode="array",
-            tickvals=[str(year) for year in pivot_df.columns],
-            ticktext=[str(year) for year in pivot_df.columns],
             title_font={"color": "#1f2937", "size": 14},
             tickfont={"color": "#1f2937", "size": 11}
         )
